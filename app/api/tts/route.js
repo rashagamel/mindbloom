@@ -60,13 +60,25 @@ const fail = (status, error) =>
 
 const esc = (s) => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 
-function inner(text, lang, kind) {
+// Azure SSML: uses <say-as> for letter names and <phoneme ipa> for sounds.
+function innerAzure(text, lang, kind) {
   const key = text.toLowerCase();
   if (lang === "en" && kind === "name" && LETTER_NAME[key])
     return `<say-as interpret-as="characters">${LETTER_NAME[key]}</say-as>`;
   if (lang === "en" && kind === "sound" && LETTER_SOUND[key])
     return `<phoneme alphabet="ipa" ph="${LETTER_SOUND[key]}">${esc(text)}</phoneme>`;
   return esc(text);
+}
+
+// Plain-text for providers that do NOT support SSML (Google TTS, VoiceRSS).
+// - Letter NAME ("ay" -> "A"): send the actual single letter so the voice says "A" not "eye".
+// - Letter SOUND ("buh", "ah"): these phonetic spellings are readable as-is.
+// - Everything else (Arabic words, English words): send verbatim.
+function innerPlain(text, lang, kind) {
+  const key = text.toLowerCase();
+  if (lang === "en" && kind === "name" && LETTER_NAME[key])
+    return LETTER_NAME[key]; // single ASCII letter, e.g. "A" – TTS reads it as the letter name
+  return text; // sounds ("buh") and regular words are fine verbatim
 }
 
 // ── Provider 1: Azure Neural TTS ──────────────────────────────────────────────────────────────
@@ -80,7 +92,7 @@ async function azure(text, lang, slow, kind) {
   const locale = voice.split("-").slice(0, 2).join("-");
   const ssml =
     `<speak version="1.0" xml:lang="${locale}"><voice name="${voice}">` +
-    `<prosody rate="${slow ? "-30%" : "-12%"}">${inner(text, lang, kind)}</prosody></voice></speak>`;
+    `<prosody rate="${slow ? "-30%" : "-12%"}">${innerAzure(text, lang, kind)}</prosody></voice></speak>`;
   const res = await fetch(`https://${region}.tts.speech.microsoft.com/cognitiveservices/v1`, {
     method: "POST",
     headers: {
@@ -106,13 +118,15 @@ const UAS = [
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
 ];
 
-async function google(text, lang, slow) {
+async function google(text, lang, slow, kind) {
   const ua = UAS[Math.floor(Math.random() * UAS.length)];
   // Map "ar" -> "ar" and "en" -> "en" (Google TTS uses short codes)
   const tl = lang === "ar" ? "ar" : "en";
+  // Apply plain-text letter mapping so "ay" -> "A" (not "eye") and "bee" -> "B" etc.
+  const q = innerPlain(text, lang, kind);
   const url =
     "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob" +
-    `&tl=${tl}&ttsspeed=${slow ? "0.24" : "0.5"}&q=${encodeURIComponent(text)}`;
+    `&tl=${tl}&ttsspeed=${slow ? "0.24" : "0.5"}&q=${encodeURIComponent(q)}`;
   const res = await fetch(url, {
     headers: {
       "User-Agent": ua,
@@ -133,14 +147,16 @@ async function google(text, lang, slow) {
 // Set VOICERSS_KEY in Vercel > Settings > Environment Variables.
 // Voice codes: Arabic = "ar-eg"  English = "en-us"
 const VOICERSS_VOICES = { ar: "ar-eg", en: "en-us" };
-async function voicerss(text, lang, slow) {
+async function voicerss(text, lang, slow, kind) {
   const key = process.env.VOICERSS_KEY;
   if (!key) return null;
   const hl = VOICERSS_VOICES[lang] ?? "en-us";
   const r = slow ? "-4" : "0"; // rate: -10 (slowest) to 10 (fastest); 0 = normal
+  // Apply plain-text letter mapping so "ay" -> "A" (not "eye"), "bee" -> "B" etc.
+  const src = innerPlain(text, lang, kind);
   const url =
     `https://api.voicerss.org/?key=${key}&hl=${hl}&r=${r}&c=MP3&f=24khz_16bit_mono` +
-    `&src=${encodeURIComponent(text)}`;
+    `&src=${encodeURIComponent(src)}`;
   const res = await fetch(url, { signal: AbortSignal.timeout(10000) });
   if (!res.ok) throw new Error(`voicerss ${res.status}`);
   const buf = Buffer.from(await res.arrayBuffer());
