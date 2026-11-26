@@ -1,0 +1,10 @@
+{
+  "breaks": [
+    { "id": "frog",    "emoji": "🐸", "kind": "move",    "text": { "en": "Hop like a frog 5 times!", "ar": "اقفز مثل الضفدع ٥ مرات!" } },
+    { "id": "tree",    "emoji": "🌳", "kind": "move",    "text": { "en": "Stretch up tall like a tree, then let your arms float down like leaves.", "ar": "تمدّد عاليًا مثل الشجرة، ثم أنزل ذراعيك ببطء مثل الأوراق." } },
+    { "id": "dance",   "emoji": "💃", "kind": "move",    "text": { "en": "Freeze dance! Wiggle, wiggle, wiggle... then freeze like a statue!", "ar": "رقصة التجمّد! تحرّك وتحرّك... ثم اثبت مثل التمثال!" } },
+    { "id": "bear",    "emoji": "🐻", "kind": "move",    "text": { "en": "Walk like a sleepy bear around the room.", "ar": "امشِ مثل الدبّ النعسان في الغرفة." } },
+    { "id": "shake",   "emoji": "🙌", "kind": "move",    "text": { "en": "Shake your hands like jelly!", "ar": "هزّ يديك مثل الجيلي!" } },
+    { "id": "balloon", "emoji": "🎈", "kind": "breathe", "text": { "en": "Big belly breaths. Fill the balloon... and let the air out slowly.", "ar": "تنفّس بعمق. املأ البالون... ثم أخرج الهواء ببطء." } }
+  ]
+}

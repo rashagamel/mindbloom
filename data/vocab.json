@@ -1,0 +1,364 @@
+{
+  "categories": [
+    {
+      "id": "animals",
+      "icon": "🐾",
+      "color": "#ffe0b5",
+      "title": {
+        "en": "Animals",
+        "ar": "الحيوانات"
+      }
+    },
+    {
+      "id": "food",
+      "icon": "🍎",
+      "color": "#ffd6d6",
+      "title": {
+        "en": "Food",
+        "ar": "الطعام"
+      }
+    },
+    {
+      "id": "things",
+      "icon": "🧸",
+      "color": "#d6e8ff",
+      "title": {
+        "en": "Things around us",
+        "ar": "أشياء حولنا"
+      }
+    },
+    {
+      "id": "nature",
+      "icon": "🌈",
+      "color": "#d9f5d0",
+      "title": {
+        "en": "Nature",
+        "ar": "الطبيعة"
+      }
+    }
+  ],
+  "words": [
+    {
+      "id": "cat",
+      "cat": "animals",
+      "emoji": "🐱",
+      "en": "cat",
+      "ar": "قطة"
+    },
+    {
+      "id": "dog",
+      "cat": "animals",
+      "emoji": "🐶",
+      "en": "dog",
+      "ar": "كلب"
+    },
+    {
+      "id": "cow",
+      "cat": "animals",
+      "emoji": "🐄",
+      "en": "cow",
+      "ar": "بقرة"
+    },
+    {
+      "id": "duck",
+      "cat": "animals",
+      "emoji": "🦆",
+      "en": "duck",
+      "ar": "بطة"
+    },
+    {
+      "id": "fish",
+      "cat": "animals",
+      "emoji": "🐟",
+      "en": "fish",
+      "ar": "سمكة"
+    },
+    {
+      "id": "bird",
+      "cat": "animals",
+      "emoji": "🐦",
+      "en": "bird",
+      "ar": "عصفور"
+    },
+    {
+      "id": "horse",
+      "cat": "animals",
+      "emoji": "🐴",
+      "en": "horse",
+      "ar": "حصان"
+    },
+    {
+      "id": "rabbit",
+      "cat": "animals",
+      "emoji": "🐰",
+      "en": "rabbit",
+      "ar": "أرنب"
+    },
+    {
+      "id": "lion",
+      "cat": "animals",
+      "emoji": "🦁",
+      "en": "lion",
+      "ar": "أسد"
+    },
+    {
+      "id": "elephant",
+      "cat": "animals",
+      "emoji": "🐘",
+      "en": "elephant",
+      "ar": "فيل"
+    },
+    {
+      "id": "monkey",
+      "cat": "animals",
+      "emoji": "🐵",
+      "en": "monkey",
+      "ar": "قرد"
+    },
+    {
+      "id": "sheep",
+      "cat": "animals",
+      "emoji": "🐑",
+      "en": "sheep",
+      "ar": "خروف"
+    },
+    {
+      "id": "apple",
+      "cat": "food",
+      "emoji": "🍎",
+      "en": "apple",
+      "ar": "تفاحة"
+    },
+    {
+      "id": "banana",
+      "cat": "food",
+      "emoji": "🍌",
+      "en": "banana",
+      "ar": "موزة"
+    },
+    {
+      "id": "orange",
+      "cat": "food",
+      "emoji": "🍊",
+      "en": "orange",
+      "ar": "برتقالة"
+    },
+    {
+      "id": "grapes",
+      "cat": "food",
+      "emoji": "🍇",
+      "en": "grapes",
+      "ar": "عنب"
+    },
+    {
+      "id": "strawberry",
+      "cat": "food",
+      "emoji": "🍓",
+      "en": "strawberry",
+      "ar": "فراولة"
+    },
+    {
+      "id": "watermelon",
+      "cat": "food",
+      "emoji": "🍉",
+      "en": "watermelon",
+      "ar": "بطيخ"
+    },
+    {
+      "id": "carrot",
+      "cat": "food",
+      "emoji": "🥕",
+      "en": "carrot",
+      "ar": "جزرة"
+    },
+    {
+      "id": "bread",
+      "cat": "food",
+      "emoji": "🍞",
+      "en": "bread",
+      "ar": "خبز"
+    },
+    {
+      "id": "milk",
+      "cat": "food",
+      "emoji": "🥛",
+      "en": "milk",
+      "ar": "حليب"
+    },
+    {
+      "id": "egg",
+      "cat": "food",
+      "emoji": "🥚",
+      "en": "egg",
+      "ar": "بيضة"
+    },
+    {
+      "id": "cheese",
+      "cat": "food",
+      "emoji": "🧀",
+      "en": "cheese",
+      "ar": "جبنة"
+    },
+    {
+      "id": "cake",
+      "cat": "food",
+      "emoji": "🍰",
+      "en": "cake",
+      "ar": "كعكة"
+    },
+    {
+      "id": "ball",
+      "cat": "things",
+      "emoji": "⚽",
+      "en": "ball",
+      "ar": "كرة"
+    },
+    {
+      "id": "book",
+      "cat": "things",
+      "emoji": "📖",
+      "en": "book",
+      "ar": "كتاب"
+    },
+    {
+      "id": "car",
+      "cat": "things",
+      "emoji": "🚗",
+      "en": "car",
+      "ar": "سيارة"
+    },
+    {
+      "id": "house",
+      "cat": "things",
+      "emoji": "🏠",
+      "en": "house",
+      "ar": "بيت"
+    },
+    {
+      "id": "chair",
+      "cat": "things",
+      "emoji": "🪑",
+      "en": "chair",
+      "ar": "كرسي"
+    },
+    {
+      "id": "bed",
+      "cat": "things",
+      "emoji": "🛏️",
+      "en": "bed",
+      "ar": "سرير"
+    },
+    {
+      "id": "door",
+      "cat": "things",
+      "emoji": "🚪",
+      "en": "door",
+      "ar": "باب"
+    },
+    {
+      "id": "clock",
+      "cat": "things",
+      "emoji": "🕒",
+      "en": "clock",
+      "ar": "ساعة"
+    },
+    {
+      "id": "shoe",
+      "cat": "things",
+      "emoji": "👟",
+      "en": "shoe",
+      "ar": "حذاء"
+    },
+    {
+      "id": "hat",
+      "cat": "things",
+      "emoji": "🎩",
+      "en": "hat",
+      "ar": "قبعة"
+    },
+    {
+      "id": "key",
+      "cat": "things",
+      "emoji": "🔑",
+      "en": "key",
+      "ar": "مفتاح"
+    },
+    {
+      "id": "cup",
+      "cat": "things",
+      "emoji": "🥤",
+      "en": "cup",
+      "ar": "كوب"
+    },
+    {
+      "id": "sun",
+      "cat": "nature",
+      "emoji": "☀️",
+      "en": "sun",
+      "ar": "شمس"
+    },
+    {
+      "id": "moon",
+      "cat": "nature",
+      "emoji": "🌙",
+      "en": "moon",
+      "ar": "قمر"
+    },
+    {
+      "id": "star",
+      "cat": "nature",
+      "emoji": "⭐",
+      "en": "star",
+      "ar": "نجمة"
+    },
+    {
+      "id": "tree",
+      "cat": "nature",
+      "emoji": "🌳",
+      "en": "tree",
+      "ar": "شجرة"
+    },
+    {
+      "id": "flower",
+      "cat": "nature",
+      "emoji": "🌸",
+      "en": "flower",
+      "ar": "وردة"
+    },
+    {
+      "id": "rain",
+      "cat": "nature",
+      "emoji": "🌧️",
+      "en": "rain",
+      "ar": "مطر"
+    },
+    {
+      "id": "cloud",
+      "cat": "nature",
+      "emoji": "☁️",
+      "en": "cloud",
+      "ar": "سحابة"
+    },
+    {
+      "id": "mountain",
+      "cat": "nature",
+      "emoji": "⛰️",
+      "en": "mountain",
+      "ar": "جبل"
+    },
+    {
+      "id": "fire",
+      "cat": "nature",
+      "emoji": "🔥",
+      "en": "fire",
+      "ar": "نار"
+    },
+    {
+      "id": "snow",
+      "cat": "nature",
+      "emoji": "❄️",
+      "en": "snow",
+      "ar": "ثلج"
+    }
+  ]
+}

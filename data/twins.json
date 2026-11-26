@@ -1,0 +1,297 @@
+{
+  "ar-letters": {
+    "ب": {
+      "emoji": "🦆",
+      "text": {
+        "en": "One dot below",
+        "ar": "نقطة واحدة تحت"
+      }
+    },
+    "ت": {
+      "emoji": "🍎",
+      "text": {
+        "en": "Two dots above",
+        "ar": "نقطتان فوق"
+      }
+    },
+    "ث": {
+      "emoji": "🦊",
+      "text": {
+        "en": "Three dots above",
+        "ar": "ثلاث نقاط فوق"
+      }
+    },
+    "ج": {
+      "emoji": "🐫",
+      "text": {
+        "en": "One dot inside the curve",
+        "ar": "نقطة داخل الحرف"
+      }
+    },
+    "ح": {
+      "emoji": "🐴",
+      "text": {
+        "en": "No dot",
+        "ar": "بلا نقطة"
+      }
+    },
+    "خ": {
+      "emoji": "🐑",
+      "text": {
+        "en": "One dot above",
+        "ar": "نقطة واحدة فوق"
+      }
+    },
+    "د": {
+      "emoji": "🐻",
+      "text": {
+        "en": "No dot",
+        "ar": "بلا نقطة"
+      }
+    },
+    "ذ": {
+      "emoji": "🌽",
+      "text": {
+        "en": "One dot above",
+        "ar": "نقطة واحدة فوق"
+      }
+    },
+    "ر": {
+      "emoji": "🌹",
+      "text": {
+        "en": "No dot",
+        "ar": "بلا نقطة"
+      }
+    },
+    "ز": {
+      "emoji": "🦒",
+      "text": {
+        "en": "One dot above",
+        "ar": "نقطة واحدة فوق"
+      }
+    },
+    "س": {
+      "emoji": "🐟",
+      "text": {
+        "en": "No dots",
+        "ar": "بلا نقاط"
+      }
+    },
+    "ش": {
+      "emoji": "☀️",
+      "text": {
+        "en": "Three dots above",
+        "ar": "ثلاث نقاط فوق"
+      }
+    },
+    "ص": {
+      "emoji": "🦅",
+      "text": {
+        "en": "No dot",
+        "ar": "بلا نقطة"
+      }
+    },
+    "ض": {
+      "emoji": "🐸",
+      "text": {
+        "en": "One dot above",
+        "ar": "نقطة واحدة فوق"
+      }
+    },
+    "ط": {
+      "emoji": "🐦",
+      "text": {
+        "en": "No dot",
+        "ar": "بلا نقطة"
+      }
+    },
+    "ظ": {
+      "emoji": "✉️",
+      "text": {
+        "en": "One dot above",
+        "ar": "نقطة واحدة فوق"
+      }
+    },
+    "ع": {
+      "emoji": "🍇",
+      "text": {
+        "en": "No dot",
+        "ar": "بلا نقطة"
+      }
+    },
+    "غ": {
+      "emoji": "☁️",
+      "text": {
+        "en": "One dot above",
+        "ar": "نقطة واحدة فوق"
+      }
+    },
+    "ف": {
+      "emoji": "🐘",
+      "text": {
+        "en": "One dot above",
+        "ar": "نقطة واحدة فوق"
+      }
+    },
+    "ق": {
+      "emoji": "🌙",
+      "text": {
+        "en": "Two dots above",
+        "ar": "نقطتان فوق"
+      }
+    }
+  },
+  "en-letters": {
+    "b": {
+      "emoji": "🐝",
+      "text": {
+        "en": "The stick is on the left, the round belly on the right: bat, then ball",
+        "ar": "العصا على اليسار والبطن المستدير على اليمين"
+      }
+    },
+    "d": {
+      "emoji": "🥁",
+      "text": {
+        "en": "The round belly is on the left, the stick on the right: drum and drumstick",
+        "ar": "البطن المستدير على اليسار والعصا على اليمين"
+      }
+    },
+    "p": {
+      "emoji": "🐧",
+      "text": {
+        "en": "The stick goes down on the left, the belly is at the top",
+        "ar": "العصا تنزل لتحت على اليسار والبطن فوق"
+      }
+    },
+    "q": {
+      "emoji": "👸",
+      "text": {
+        "en": "The stick goes down on the right, the belly is at the top",
+        "ar": "العصا تنزل لتحت على اليمين والبطن فوق"
+      }
+    },
+    "m": {
+      "emoji": "⛰️",
+      "text": {
+        "en": "Two humps, like two mountains",
+        "ar": "حدبتان مثل جبلين"
+      }
+    },
+    "n": {
+      "emoji": "🥜",
+      "text": {
+        "en": "One hump",
+        "ar": "حدبة واحدة"
+      }
+    },
+    "i": {
+      "emoji": "🍦",
+      "text": {
+        "en": "A short stick with a dot on top",
+        "ar": "عصا قصيرة ونقطة فوقها"
+      }
+    },
+    "l": {
+      "emoji": "🍋",
+      "text": {
+        "en": "A tall stick with no dot",
+        "ar": "عصا طويلة بلا نقطة"
+      }
+    },
+    "v": {
+      "emoji": "🌋",
+      "text": {
+        "en": "One valley, like a volcano",
+        "ar": "وادٍ واحد مثل البركان"
+      }
+    },
+    "w": {
+      "emoji": "🌊",
+      "text": {
+        "en": "Two valleys, like waves",
+        "ar": "واديان مثل الموج"
+      }
+    }
+  },
+  "numbers": {
+    "2": {
+      "emoji": "🍎🍎",
+      "text": {
+        "en": "Two apples",
+        "ar": "تفاحتان"
+      }
+    },
+    "5": {
+      "emoji": "🍎🍎🍎🍎🍎",
+      "text": {
+        "en": "Five apples",
+        "ar": "خمس تفاحات"
+      }
+    },
+    "3": {
+      "emoji": "🍎🍎🍎",
+      "text": {
+        "en": "Three apples",
+        "ar": "ثلاث تفاحات"
+      }
+    },
+    "8": {
+      "emoji": "🍎🍎🍎🍎🍎🍎🍎🍎",
+      "text": {
+        "en": "Eight apples",
+        "ar": "ثماني تفاحات"
+      }
+    },
+    "6": {
+      "emoji": "🍎🍎🍎🍎🍎🍎",
+      "text": {
+        "en": "Six apples",
+        "ar": "ست تفاحات"
+      }
+    },
+    "9": {
+      "emoji": "🍎🍎🍎🍎🍎🍎🍎🍎🍎",
+      "text": {
+        "en": "Nine apples",
+        "ar": "تسع تفاحات"
+      }
+    }
+  },
+  "shapes": {
+    "circle": {
+      "emoji": "🔵",
+      "text": {
+        "en": "Perfectly round, no corners.",
+        "ar": "مستديرة تماماً بلا زوايا."
+      }
+    },
+    "oval": {
+      "emoji": "🥚",
+      "text": {
+        "en": "Like a circle that got stretched, like an egg.",
+        "ar": "مثل دائرة تم شدّها، مثل البيضة."
+      }
+    },
+    "square": {
+      "emoji": "🟦",
+      "text": {
+        "en": "4 sides, all the same length.",
+        "ar": "٤ أضلاع كلها متساوية."
+      }
+    },
+    "rectangle": {
+      "emoji": "🚪",
+      "text": {
+        "en": "4 sides: two long and two short, like a door.",
+        "ar": "٤ أضلاع: اثنان طويلان واثنان قصيران، مثل الباب."
+      }
+    },
+    "diamond": {
+      "emoji": "🪁",
+      "text": {
+        "en": "A square standing on its tip, like a kite.",
+        "ar": "مربع واقف على رأسه، مثل الطائرة الورقية."
+      }
+    }
+  }
+}

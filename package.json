@@ -1,0 +1,19 @@
+{
+  "name": "mindbloom",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "node tests/simulate.mjs",
+    "assets": "node tools/assets.mjs",
+    "icons": "node tools/make-icons.mjs"
+  },
+  "dependencies": {
+    "next": "^16.4.5",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  }
+}

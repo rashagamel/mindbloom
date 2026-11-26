@@ -1,0 +1,307 @@
+{
+  "badges": [
+    {
+      "id": "first-steps",
+      "icon": "👣",
+      "stat": "sessions",
+      "value": 1,
+      "title": {
+        "en": "First steps",
+        "ar": "أول خطوة"
+      },
+      "desc": {
+        "en": "Finish your first game",
+        "ar": "أنهِ أول لعبة"
+      }
+    },
+    {
+      "id": "star-10",
+      "icon": "⭐",
+      "stat": "stars",
+      "value": 10,
+      "title": {
+        "en": "Star catcher",
+        "ar": "صائد النجوم"
+      },
+      "desc": {
+        "en": "Collect 10 stars",
+        "ar": "اجمع ١٠ نجوم"
+      }
+    },
+    {
+      "id": "star-50",
+      "icon": "🌟",
+      "stat": "stars",
+      "value": 50,
+      "title": {
+        "en": "Star collector",
+        "ar": "جامع النجوم"
+      },
+      "desc": {
+        "en": "Collect 50 stars",
+        "ar": "اجمع ٥٠ نجمة"
+      }
+    },
+    {
+      "id": "star-150",
+      "icon": "💫",
+      "stat": "stars",
+      "value": 150,
+      "title": {
+        "en": "Super star",
+        "ar": "نجم ساطع"
+      },
+      "desc": {
+        "en": "Collect 150 stars",
+        "ar": "اجمع ١٥٠ نجمة"
+      }
+    },
+    {
+      "id": "level-1",
+      "icon": "🗺️",
+      "stat": "levels",
+      "value": 1,
+      "title": {
+        "en": "Explorer",
+        "ar": "مستكشف"
+      },
+      "desc": {
+        "en": "Clear your first level",
+        "ar": "أنهِ أول مستوى"
+      }
+    },
+    {
+      "id": "level-5",
+      "icon": "🧭",
+      "stat": "levels",
+      "value": 5,
+      "title": {
+        "en": "Adventurer",
+        "ar": "مغامر"
+      },
+      "desc": {
+        "en": "Clear 5 levels",
+        "ar": "أنهِ ٥ مستويات"
+      }
+    },
+    {
+      "id": "level-12",
+      "icon": "🏔️",
+      "stat": "levels",
+      "value": 12,
+      "title": {
+        "en": "Mountain climber",
+        "ar": "متسلق الجبال"
+      },
+      "desc": {
+        "en": "Clear 12 levels",
+        "ar": "أنهِ ١٢ مستوى"
+      }
+    },
+    {
+      "id": "perfect-1",
+      "icon": "💎",
+      "stat": "perfect",
+      "value": 1,
+      "title": {
+        "en": "Perfect!",
+        "ar": "مثالي!"
+      },
+      "desc": {
+        "en": "Get 3 stars on a level",
+        "ar": "احصل على ٣ نجوم في مستوى"
+      }
+    },
+    {
+      "id": "perfect-5",
+      "icon": "👑",
+      "stat": "perfect",
+      "value": 5,
+      "title": {
+        "en": "Champion",
+        "ar": "بطل"
+      },
+      "desc": {
+        "en": "Get 3 stars on 5 levels",
+        "ar": "احصل على ٣ نجوم في ٥ مستويات"
+      }
+    },
+    {
+      "id": "streak-3",
+      "icon": "🔥",
+      "stat": "streak",
+      "value": 3,
+      "title": {
+        "en": "On fire",
+        "ar": "مشتعل"
+      },
+      "desc": {
+        "en": "Play 3 days in a row",
+        "ar": "العب ٣ أيام متتالية"
+      }
+    },
+    {
+      "id": "streak-7",
+      "icon": "🚀",
+      "stat": "streak",
+      "value": 7,
+      "title": {
+        "en": "Rocket week",
+        "ar": "أسبوع الصاروخ"
+      },
+      "desc": {
+        "en": "Play 7 days in a row",
+        "ar": "العب ٧ أيام متتالية"
+      }
+    },
+    {
+      "id": "detective-1",
+      "icon": "🕵️",
+      "stat": "missions",
+      "value": 1,
+      "title": {
+        "en": "Twin detective",
+        "ar": "محقق التوائم"
+      },
+      "desc": {
+        "en": "Solve a twin mission",
+        "ar": "احل مهمة توائم"
+      }
+    },
+    {
+      "id": "detective-3",
+      "icon": "🔎",
+      "stat": "missions",
+      "value": 3,
+      "title": {
+        "en": "Master detective",
+        "ar": "المحقق الماهر"
+      },
+      "desc": {
+        "en": "Solve 3 twin missions",
+        "ar": "احل ٣ مهام توائم"
+      }
+    },
+    {
+      "id": "sticker-5",
+      "icon": "🎖️",
+      "stat": "stickers",
+      "value": 5,
+      "title": {
+        "en": "Sticker fan",
+        "ar": "محب الستيكرز"
+      },
+      "desc": {
+        "en": "Collect 5 stickers",
+        "ar": "اجمع ٥ ستيكرز"
+      }
+    },
+    {
+      "id": "checkup-1",
+      "icon": "🩺",
+      "stat": "checkups",
+      "value": 1,
+      "title": {
+        "en": "Magic check-up",
+        "ar": "الفحص السحري"
+      },
+      "desc": {
+        "en": "Finish a check-up",
+        "ar": "أنهِ فحصاً سحرياً"
+      }
+    },
+    {
+      "id": "words-10",
+      "icon": "📖",
+      "stat": "words",
+      "value": 10,
+      "title": {
+        "en": "Word wizard",
+        "ar": "ساحر الكلمات"
+      },
+      "desc": {
+        "en": "Learn 10 words in Match",
+        "ar": "تعلّم ١٠ كلمات في المطابقة"
+      }
+    },
+    {
+      "id": "words-30",
+      "icon": "🎓",
+      "stat": "words",
+      "value": 30,
+      "title": {
+        "en": "Word master",
+        "ar": "سيد الكلمات"
+      },
+      "desc": {
+        "en": "Learn 30 words in Match",
+        "ar": "تعلّم ٣٠ كلمة في المطابقة"
+      }
+    }
+  ],
+  "hats": [
+    {
+      "id": "none",
+      "emoji": "",
+      "stars": 0,
+      "title": {
+        "en": "No hat",
+        "ar": "بدون قبعة"
+      }
+    },
+    {
+      "id": "flower",
+      "emoji": "🌸",
+      "stars": 5,
+      "title": {
+        "en": "Flower",
+        "ar": "زهرة"
+      }
+    },
+    {
+      "id": "cap",
+      "emoji": "🧢",
+      "stars": 20,
+      "title": {
+        "en": "Cap",
+        "ar": "كاب"
+      }
+    },
+    {
+      "id": "party",
+      "emoji": "🥳",
+      "stars": 40,
+      "title": {
+        "en": "Party",
+        "ar": "حفلة"
+      }
+    },
+    {
+      "id": "top",
+      "emoji": "🎩",
+      "stars": 70,
+      "title": {
+        "en": "Top hat",
+        "ar": "قبعة أنيقة"
+      }
+    },
+    {
+      "id": "grad",
+      "emoji": "🎓",
+      "stars": 110,
+      "title": {
+        "en": "Graduate",
+        "ar": "متخرج"
+      }
+    },
+    {
+      "id": "crown",
+      "emoji": "👑",
+      "stars": 160,
+      "title": {
+        "en": "Crown",
+        "ar": "تاج"
+      }
+    }
+  ]
+}

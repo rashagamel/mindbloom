@@ -1,0 +1,352 @@
+{
+  "worlds": [
+    {
+      "domain": "ar-letters",
+      "from": "#ffe6a8",
+      "to": "#fff3dc",
+      "icon": "🌞",
+      "levels": [
+        {
+          "id": "ar-1",
+          "title": {
+            "en": "Sunny Meadow",
+            "ar": "المرج المشمس"
+          },
+          "icon": "🌱",
+          "sticker": "🦆",
+          "color": "#ff7a59",
+          "items": [
+            "ا",
+            "ب",
+            "ت",
+            "ث"
+          ]
+        },
+        {
+          "id": "ar-2",
+          "title": {
+            "en": "Bee Hill",
+            "ar": "تلّة النحل"
+          },
+          "icon": "🐝",
+          "sticker": "🐫",
+          "color": "#f4b942",
+          "items": [
+            "ج",
+            "ح",
+            "خ"
+          ]
+        },
+        {
+          "id": "ar-3",
+          "title": {
+            "en": "Rainbow Pond",
+            "ar": "بركة قوس قزح"
+          },
+          "icon": "🌈",
+          "sticker": "🐻",
+          "color": "#3bb273",
+          "items": [
+            "د",
+            "ر",
+            "ز",
+            "ذ"
+          ]
+        },
+        {
+          "id": "ar-4",
+          "title": {
+            "en": "Butterfly Path",
+            "ar": "ممرّ الفراشات"
+          },
+          "icon": "🦋",
+          "sticker": "🐟",
+          "color": "#5b8def",
+          "items": [
+            "س",
+            "ش",
+            "ص",
+            "ض"
+          ]
+        },
+        {
+          "id": "ar-5",
+          "title": {
+            "en": "Moon Forest",
+            "ar": "غابة القمر"
+          },
+          "icon": "🌙",
+          "sticker": "🐦",
+          "color": "#b36bd9",
+          "items": [
+            "ط",
+            "ظ",
+            "ع",
+            "غ"
+          ]
+        },
+        {
+          "id": "ar-6",
+          "title": {
+            "en": "Starry Hill",
+            "ar": "تلّة النجوم"
+          },
+          "icon": "⭐",
+          "sticker": "🐘",
+          "color": "#ef5da8",
+          "items": [
+            "ف",
+            "ق",
+            "ك",
+            "ل"
+          ]
+        },
+        {
+          "id": "ar-7",
+          "title": {
+            "en": "Treasure Tree",
+            "ar": "شجرة الكنز"
+          },
+          "icon": "🌳",
+          "sticker": "🌙",
+          "color": "#2ec4b6",
+          "items": [
+            "م",
+            "ن",
+            "ه",
+            "و",
+            "ي"
+          ]
+        }
+      ],
+      "art": "pyramids"
+    },
+    {
+      "domain": "en-letters",
+      "from": "#cfe6ff",
+      "to": "#eef6ff",
+      "icon": "☁️",
+      "levels": [
+        {
+          "id": "en-1",
+          "title": {
+            "en": "Sunny Meadow",
+            "ar": "المرج المشمس"
+          },
+          "icon": "🌱",
+          "sticker": "🐝",
+          "color": "#ff7a59",
+          "items": [
+            "a",
+            "b",
+            "c",
+            "d"
+          ]
+        },
+        {
+          "id": "en-2",
+          "title": {
+            "en": "Bee Hill",
+            "ar": "تلّة النحل"
+          },
+          "icon": "🐝",
+          "sticker": "🦊",
+          "color": "#f4b942",
+          "items": [
+            "e",
+            "f",
+            "g",
+            "h"
+          ]
+        },
+        {
+          "id": "en-3",
+          "title": {
+            "en": "Rainbow Pond",
+            "ar": "بركة قوس قزح"
+          },
+          "icon": "🌈",
+          "sticker": "🐠",
+          "color": "#3bb273",
+          "items": [
+            "i",
+            "j",
+            "k",
+            "l"
+          ]
+        },
+        {
+          "id": "en-4",
+          "title": {
+            "en": "Butterfly Path",
+            "ar": "ممرّ الفراشات"
+          },
+          "icon": "🦋",
+          "sticker": "🐢",
+          "color": "#5b8def",
+          "items": [
+            "m",
+            "n",
+            "o",
+            "p"
+          ]
+        },
+        {
+          "id": "en-5",
+          "title": {
+            "en": "Moon Forest",
+            "ar": "غابة القمر"
+          },
+          "icon": "🌙",
+          "sticker": "🦋",
+          "color": "#b36bd9",
+          "items": [
+            "q",
+            "r",
+            "s",
+            "t"
+          ]
+        },
+        {
+          "id": "en-6",
+          "title": {
+            "en": "Starry Hill",
+            "ar": "تلّة النجوم"
+          },
+          "icon": "⭐",
+          "sticker": "🐙",
+          "color": "#ef5da8",
+          "items": [
+            "u",
+            "v",
+            "w",
+            "x"
+          ]
+        },
+        {
+          "id": "en-7",
+          "title": {
+            "en": "Treasure Tree",
+            "ar": "شجرة الكنز"
+          },
+          "icon": "🌳",
+          "sticker": "🦓",
+          "color": "#2ec4b6",
+          "items": [
+            "y",
+            "z"
+          ]
+        }
+      ],
+      "art": "rocket"
+    },
+    {
+      "domain": "numbers",
+      "from": "#d5f3df",
+      "to": "#effaf2",
+      "icon": "🌊",
+      "levels": [
+        {
+          "id": "num-1",
+          "title": {
+            "en": "Little Pond",
+            "ar": "البركة الصغيرة"
+          },
+          "icon": "🌱",
+          "sticker": "🐞",
+          "color": "#ff7a59",
+          "items": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "id": "num-2",
+          "title": {
+            "en": "Big Pond",
+            "ar": "البركة الكبيرة"
+          },
+          "icon": "🐝",
+          "sticker": "🐧",
+          "color": "#f4b942",
+          "items": [
+            "4",
+            "5",
+            "6"
+          ]
+        },
+        {
+          "id": "num-3",
+          "title": {
+            "en": "Waterfall",
+            "ar": "الشلال"
+          },
+          "icon": "🌈",
+          "sticker": "🦄",
+          "color": "#3bb273",
+          "items": [
+            "7",
+            "8",
+            "9",
+            "10"
+          ]
+        }
+      ],
+      "art": "balloons"
+    },
+    {
+      "domain": "shapes",
+      "from": "#d5f3df",
+      "to": "#effaf2",
+      "icon": "🔷",
+      "levels": [
+        {
+          "id": "sh-1",
+          "title": {
+            "en": "Round, square, pointy",
+            "ar": "مستدير ومربع ومدبب"
+          },
+          "icon": "🔵",
+          "sticker": "🧽",
+          "color": "#3b9ae1",
+          "items": [
+            "circle",
+            "square",
+            "triangle"
+          ]
+        },
+        {
+          "id": "sh-2",
+          "title": {
+            "en": "Doors, stars and hearts",
+            "ar": "أبواب ونجوم وقلوب"
+          },
+          "icon": "⭐",
+          "sticker": "🚪",
+          "color": "#f4b942",
+          "items": [
+            "rectangle",
+            "star",
+            "heart"
+          ]
+        },
+        {
+          "id": "sh-3",
+          "title": {
+            "en": "Twin shapes",
+            "ar": "أشكال توائم"
+          },
+          "icon": "🔶",
+          "sticker": "🪁",
+          "color": "#1fb5b5",
+          "items": [
+            "oval",
+            "diamond"
+          ]
+        }
+      ],
+      "art": "blocks"
+    }
+  ]
+}

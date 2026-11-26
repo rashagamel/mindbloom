@@ -1,0 +1,336 @@
+{
+  "items": [
+    {
+      "id": "video-abc-phonics",
+      "type": "song",
+      "lang": "en",
+      "speechLang": "en-US",
+      "dir": "ltr",
+      "icon": "📺",
+      "title": {
+        "en": "ABC phonics song (A to I)",
+        "ar": "أغنية الحروف الصوتية (A إلى I)"
+      },
+      "youtube": "https://www.youtube.com/watch?v=1pCFfkqmU2A",
+      "credit": "Super Simple Songs"
+    },
+    {
+      "id": "video-count-en",
+      "type": "song",
+      "lang": "en",
+      "speechLang": "en-US",
+      "dir": "ltr",
+      "icon": "📺",
+      "title": {
+        "en": "Counting 1 to 10 song",
+        "ar": "أغنية العد من 1 إلى 10"
+      },
+      "youtube": "https://www.youtube.com/watch?v=ZNqt87z5zF8"
+    },
+    {
+      "id": "song-count-ar",
+      "type": "song",
+      "lang": "ar",
+      "speechLang": "ar-SA",
+      "dir": "rtl",
+      "icon": "🎵",
+      "title": {
+        "en": "نعدّ معًا",
+        "ar": "نعدّ معًا"
+      },
+      "lines": [
+        {
+          "text": "واحد شمس في السماء",
+          "emoji": "☀️"
+        },
+        {
+          "text": "اثنان عينان للضياء",
+          "emoji": "👀"
+        },
+        {
+          "text": "ثلاثة طيور في الهواء",
+          "emoji": "🐦🐦🐦"
+        },
+        {
+          "text": "أربعة أسماك في الماء",
+          "emoji": "🐟🐟🐟🐟"
+        },
+        {
+          "text": "خمسة أصابع والغناء",
+          "emoji": "🖐️"
+        }
+      ]
+    },
+    {
+      "id": "song-abc-en",
+      "type": "song",
+      "lang": "en",
+      "speechLang": "en-US",
+      "dir": "ltr",
+      "icon": "🔤",
+      "title": {
+        "en": "Letters and pictures",
+        "ar": "Letters and pictures"
+      },
+      "lines": [
+        {
+          "text": "A is for apple",
+          "emoji": "🍎"
+        },
+        {
+          "text": "B is for ball",
+          "emoji": "⚽"
+        },
+        {
+          "text": "C is for cat",
+          "emoji": "🐱"
+        },
+        {
+          "text": "D is for dog",
+          "emoji": "🐶"
+        }
+      ]
+    },
+    {
+      "id": "video-abc-ar",
+      "type": "song",
+      "lang": "ar",
+      "speechLang": "ar-SA",
+      "dir": "rtl",
+      "icon": "📺",
+      "title": {
+        "en": "Arabic alphabet song (Alif, Baa, Taa)",
+        "ar": "أنشودة الحروف العربية (أ ب ت ث)"
+      },
+      "youtube": "https://www.youtube.com/watch?v=KpDynuPayS4"
+    },
+    {
+      "id": "video-story-duckling-en",
+      "type": "story",
+      "lang": "en",
+      "speechLang": "en-US",
+      "dir": "ltr",
+      "icon": "📺",
+      "title": {
+        "en": "The Ugly Duckling",
+        "ar": "البطة القبيحة"
+      },
+      "youtube": "https://www.youtube.com/watch?v=t-fAUlD7q30"
+    },
+    {
+      "id": "video-story-hare-ar",
+      "type": "story",
+      "lang": "ar",
+      "speechLang": "ar-SA",
+      "dir": "rtl",
+      "icon": "📺",
+      "title": {
+        "en": "The hare and the tortoise",
+        "ar": "الأرنب والسلحفاة"
+      },
+      "youtube": "https://www.youtube.com/watch?v=Hw_LT3SooIQ"
+    },
+    {
+      "id": "talk-friend-en",
+      "type": "dialogue",
+      "lang": "en",
+      "speechLang": "en-US",
+      "dir": "ltr",
+      "icon": "💬",
+      "title": {
+        "en": "Meeting a friend",
+        "ar": "Meeting a friend"
+      },
+      "speakers": {
+        "sara": {
+          "name": {
+            "en": "Sara",
+            "ar": "Sara"
+          },
+          "emoji": "👧"
+        },
+        "omar": {
+          "name": {
+            "en": "Omar",
+            "ar": "Omar"
+          },
+          "emoji": "👦"
+        }
+      },
+      "lines": [
+        {
+          "speaker": "sara",
+          "text": "Hello! My name is Sara."
+        },
+        {
+          "speaker": "omar",
+          "text": "Hi Sara! I am Omar."
+        },
+        {
+          "speaker": "sara",
+          "text": "Do you want to play?"
+        },
+        {
+          "speaker": "omar",
+          "text": "Yes, please!"
+        },
+        {
+          "speaker": "sara",
+          "text": "Let's play with the ball."
+        }
+      ]
+    },
+    {
+      "id": "talk-friend-ar",
+      "type": "dialogue",
+      "lang": "ar",
+      "speechLang": "ar-SA",
+      "dir": "rtl",
+      "icon": "💬",
+      "title": {
+        "en": "أصدقاء جدد",
+        "ar": "أصدقاء جدد"
+      },
+      "speakers": {
+        "sara": {
+          "name": {
+            "en": "سارة",
+            "ar": "سارة"
+          },
+          "emoji": "👧"
+        },
+        "omar": {
+          "name": {
+            "en": "عمر",
+            "ar": "عمر"
+          },
+          "emoji": "👦"
+        }
+      },
+      "lines": [
+        {
+          "speaker": "sara",
+          "text": "مرحبًا! اسمي سارة."
+        },
+        {
+          "speaker": "omar",
+          "text": "أهلًا يا سارة! أنا عمر."
+        },
+        {
+          "speaker": "sara",
+          "text": "هل تريد أن نلعب؟"
+        },
+        {
+          "speaker": "omar",
+          "text": "نعم، من فضلك!"
+        },
+        {
+          "speaker": "sara",
+          "text": "هيا نلعب بالكرة."
+        }
+      ]
+    },
+    {
+      "id": "talk-shop-en",
+      "type": "dialogue",
+      "lang": "en",
+      "speechLang": "en-US",
+      "dir": "ltr",
+      "icon": "🛒",
+      "title": {
+        "en": "At the shop",
+        "ar": "At the shop"
+      },
+      "speakers": {
+        "child": {
+          "name": {
+            "en": "Child",
+            "ar": "Child"
+          },
+          "emoji": "🧒"
+        },
+        "seller": {
+          "name": {
+            "en": "Shopkeeper",
+            "ar": "Shopkeeper"
+          },
+          "emoji": "👩‍🍳"
+        }
+      },
+      "lines": [
+        {
+          "speaker": "child",
+          "text": "Good morning!"
+        },
+        {
+          "speaker": "seller",
+          "text": "Good morning! What would you like?"
+        },
+        {
+          "speaker": "child",
+          "text": "Two apples, please.",
+          "emoji": "🍎🍎"
+        },
+        {
+          "speaker": "seller",
+          "text": "Here you are."
+        },
+        {
+          "speaker": "child",
+          "text": "Thank you!"
+        }
+      ]
+    },
+    {
+      "id": "talk-shop-ar",
+      "type": "dialogue",
+      "lang": "ar",
+      "speechLang": "ar-SA",
+      "dir": "rtl",
+      "icon": "🛒",
+      "title": {
+        "en": "في المتجر",
+        "ar": "في المتجر"
+      },
+      "speakers": {
+        "child": {
+          "name": {
+            "en": "الطفل",
+            "ar": "الطفل"
+          },
+          "emoji": "🧒"
+        },
+        "seller": {
+          "name": {
+            "en": "البائعة",
+            "ar": "البائعة"
+          },
+          "emoji": "👩‍🍳"
+        }
+      },
+      "lines": [
+        {
+          "speaker": "child",
+          "text": "صباح الخير!"
+        },
+        {
+          "speaker": "seller",
+          "text": "صباح النور! ماذا تريد؟"
+        },
+        {
+          "speaker": "child",
+          "text": "تفاحتان من فضلك.",
+          "emoji": "🍎🍎"
+        },
+        {
+          "speaker": "seller",
+          "text": "تفضل."
+        },
+        {
+          "speaker": "child",
+          "text": "شكرًا لك!"
+        }
+      ]
+    }
+  ]
+}

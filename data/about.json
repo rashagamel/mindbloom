@@ -1,0 +1,114 @@
+{
+  "problem": {
+    "title": {
+      "en": "The problem",
+      "ar": "المشكلة"
+    },
+    "points": [
+      {
+        "icon": "🔀",
+        "text": {
+          "en": "Children aged 3 to 6 often mix up look-alike letters and numbers, such as b and d, or ب ت ث. This is common at this age.",
+          "ar": "الأطفال بين 3 و6 سنوات كثيرًا ما يخلطون بين الحروف والأرقام المتشابهة، مثل b و d أو ب ت ث. وهذا شائع في هذا العمر."
+        }
+      },
+      {
+        "icon": "🧭",
+        "text": {
+          "en": "An app that follows one fixed lesson order does not react when a child keeps choosing the wrong twin.",
+          "ar": "التطبيق الذي يسير على ترتيب دروس ثابت لا يتفاعل عندما يستمر الطفل في اختيار التوأم الخطأ."
+        }
+      },
+      {
+        "icon": "👀",
+        "text": {
+          "en": "Parents and teachers see a score, but not which letters are being confused or what to practise next.",
+          "ar": "يرى الأهل والمعلمون نتيجة فقط، ولا يعرفون أي الحروف يختلط على الطفل أو ماذا يتدرب عليه بعد ذلك."
+        }
+      }
+    ]
+  },
+  "solution": {
+    "title": {
+      "en": "The solution",
+      "ar": "الحل"
+    },
+    "text": {
+      "en": "MindBloom notices the mix-ups while the child plays, turns them into a personal Twin Detective mission, and checks whether the mix-up is fixed.",
+      "ar": "يلاحظ MindBloom الخلط أثناء لعب الطفل، ويحوّله إلى مهمة شخصية اسمها «المحقق التوأم»، ثم يتأكد هل انتهى الخلط."
+    }
+  },
+  "loop": {
+    "title": {
+      "en": "How it works",
+      "ar": "كيف يعمل"
+    },
+    "steps": [
+      {
+        "icon": "🎮",
+        "title": {
+          "en": "Play",
+          "ar": "العب"
+        },
+        "text": {
+          "en": "Levels on a map: meet the letters, then play short games.",
+          "ar": "مستويات على خريطة: تعرّف على الحروف ثم العب ألعابًا قصيرة."
+        }
+      },
+      {
+        "icon": "🔎",
+        "title": {
+          "en": "Notice",
+          "ar": "لاحظ"
+        },
+        "text": {
+          "en": "The app records which wrong letter was picked for which target.",
+          "ar": "يسجّل التطبيق أي حرف خاطئ اختاره الطفل بدل أي حرف مطلوب."
+        }
+      },
+      {
+        "icon": "🕵️",
+        "title": {
+          "en": "Mission",
+          "ar": "مهمة"
+        },
+        "text": {
+          "en": "A look-alike pair becomes a mission with a picture clue for each letter.",
+          "ar": "يتحول الزوج المتشابه إلى مهمة فيها دليل مصوّر لكل حرف."
+        }
+      },
+      {
+        "icon": "✅",
+        "title": {
+          "en": "Check",
+          "ar": "تحقق"
+        },
+        "text": {
+          "en": "A short drill. The mix-up fades from the record when the child gets it right.",
+          "ar": "تدريب قصير. يختفي الخلط من السجل عندما يجيب الطفل صح."
+        }
+      },
+      {
+        "icon": "📋",
+        "title": {
+          "en": "Report",
+          "ar": "تقرير"
+        },
+        "text": {
+          "en": "Grown-ups see the pairs, the strong letters and what to practise at home.",
+          "ar": "يرى الكبار الأزواج والحروف القوية وما يُتدرَّب عليه في البيت."
+        }
+      }
+    ]
+  },
+  "limits": {
+    "title": {
+      "en": "What it is not",
+      "ar": "ما ليس عليه"
+    },
+    "text": {
+      "en": "MindBloom supports practice and progress monitoring. It does not diagnose dyslexia, ADHD or any other condition.",
+      "ar": "يدعم MindBloom التدريب ومتابعة التقدم. ولا يشخّص عسر القراءة أو فرط الحركة أو أي حالة أخرى."
+    }
+  }
+}

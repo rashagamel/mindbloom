@@ -1,0 +1,287 @@
+# Assets to add (optional)
+
+The app works without any of these: it uses emoji pictures and the device voice.
+Drop a file with the exact name below, then run `npm run assets -- --apply` and restart.
+
+Accepted: images jpg/jpeg/png/webp/svg/gif, audio mp3/ogg/wav/m4a.
+Use photos you own or that are licensed for this use (for example Unsplash, Pexels, Pixabay or your own).
+Record audio with the phone voice recorder, one short clip per file.
+
+## Word pictures (public/images/)
+- [ ] `public/images/ar-01.jpg` , 🚪 باب
+- [ ] `public/images/ar-02.jpg` , 🐶 كلب
+- [ ] `public/images/ar-03.jpg` , 🦆 بطة
+- [ ] `public/images/ar-04.jpg` , 🍌 موز
+- [ ] `public/images/ar-05.jpg` , 🐟 سمكة
+- [ ] `public/images/ar-06.jpg` , ☀️ شمس
+- [ ] `public/images/ar-07.jpg` , 🌙 قمر
+- [ ] `public/images/ar-08.jpg` , 🐫 جمل
+- [ ] `public/images/ar-09.jpg` , 🐄 بقرة
+- [ ] `public/images/ar-10.jpg` , 🌹 ورد
+- [ ] `public/images/ar-11.jpg` , 🐻 دب
+- [ ] `public/images/ar-12.jpg` , 🐘 فيل
+- [ ] `public/images/ar-13.jpg` , 🍎 تفاحة
+- [ ] `public/images/cat.jpg` , 🐱 cat
+- [ ] `public/images/dog.jpg` , 🐶 dog
+- [ ] `public/images/sun.jpg` , ☀️ sun
+- [ ] `public/images/bus.jpg` , 🚌 bus
+- [ ] `public/images/fish.jpg` , 🐟 fish
+- [ ] `public/images/ball.jpg` , ⚽ ball
+- [ ] `public/images/bed.jpg` , 🛏️ bed
+- [ ] `public/images/pig.jpg` , 🐷 pig
+- [ ] `public/images/duck.jpg` , 🦆 duck
+- [ ] `public/images/bat.jpg` , 🦇 bat
+- [ ] `public/images/map.jpg` , 🗺️ map
+- [ ] `public/images/pen.jpg` , 🖊️ pen
+- [ ] `public/images/cat.jpg` , 🐱 cat / قطة (Match game)
+- [ ] `public/images/dog.jpg` , 🐶 dog / كلب (Match game)
+- [ ] `public/images/cow.jpg` , 🐄 cow / بقرة (Match game)
+- [ ] `public/images/duck.jpg` , 🦆 duck / بطة (Match game)
+- [ ] `public/images/fish.jpg` , 🐟 fish / سمكة (Match game)
+- [ ] `public/images/bird.jpg` , 🐦 bird / عصفور (Match game)
+- [ ] `public/images/horse.jpg` , 🐴 horse / حصان (Match game)
+- [ ] `public/images/rabbit.jpg` , 🐰 rabbit / أرنب (Match game)
+- [ ] `public/images/lion.jpg` , 🦁 lion / أسد (Match game)
+- [ ] `public/images/elephant.jpg` , 🐘 elephant / فيل (Match game)
+- [ ] `public/images/monkey.jpg` , 🐵 monkey / قرد (Match game)
+- [ ] `public/images/sheep.jpg` , 🐑 sheep / خروف (Match game)
+- [ ] `public/images/apple.jpg` , 🍎 apple / تفاحة (Match game)
+- [ ] `public/images/banana.jpg` , 🍌 banana / موزة (Match game)
+- [ ] `public/images/orange.jpg` , 🍊 orange / برتقالة (Match game)
+- [ ] `public/images/grapes.jpg` , 🍇 grapes / عنب (Match game)
+- [ ] `public/images/strawberry.jpg` , 🍓 strawberry / فراولة (Match game)
+- [ ] `public/images/watermelon.jpg` , 🍉 watermelon / بطيخ (Match game)
+- [ ] `public/images/carrot.jpg` , 🥕 carrot / جزرة (Match game)
+- [ ] `public/images/bread.jpg` , 🍞 bread / خبز (Match game)
+- [ ] `public/images/milk.jpg` , 🥛 milk / حليب (Match game)
+- [ ] `public/images/egg.jpg` , 🥚 egg / بيضة (Match game)
+- [ ] `public/images/cheese.jpg` , 🧀 cheese / جبنة (Match game)
+- [ ] `public/images/cake.jpg` , 🍰 cake / كعكة (Match game)
+- [ ] `public/images/ball.jpg` , ⚽ ball / كرة (Match game)
+- [ ] `public/images/book.jpg` , 📖 book / كتاب (Match game)
+- [ ] `public/images/car.jpg` , 🚗 car / سيارة (Match game)
+- [ ] `public/images/house.jpg` , 🏠 house / بيت (Match game)
+- [ ] `public/images/chair.jpg` , 🪑 chair / كرسي (Match game)
+- [ ] `public/images/bed.jpg` , 🛏️ bed / سرير (Match game)
+- [ ] `public/images/door.jpg` , 🚪 door / باب (Match game)
+- [ ] `public/images/clock.jpg` , 🕒 clock / ساعة (Match game)
+- [ ] `public/images/shoe.jpg` , 👟 shoe / حذاء (Match game)
+- [ ] `public/images/hat.jpg` , 🎩 hat / قبعة (Match game)
+- [ ] `public/images/key.jpg` , 🔑 key / مفتاح (Match game)
+- [ ] `public/images/cup.jpg` , 🥤 cup / كوب (Match game)
+- [ ] `public/images/sun.jpg` , ☀️ sun / شمس (Match game)
+- [ ] `public/images/moon.jpg` , 🌙 moon / قمر (Match game)
+- [ ] `public/images/star.jpg` , ⭐ star / نجمة (Match game)
+- [ ] `public/images/tree.jpg` , 🌳 tree / شجرة (Match game)
+- [ ] `public/images/flower.jpg` , 🌸 flower / وردة (Match game)
+- [ ] `public/images/rain.jpg` , 🌧️ rain / مطر (Match game)
+- [ ] `public/images/cloud.jpg` , ☁️ cloud / سحابة (Match game)
+- [ ] `public/images/mountain.jpg` , ⛰️ mountain / جبل (Match game)
+- [ ] `public/images/fire.jpg` , 🔥 fire / نار (Match game)
+- [ ] `public/images/snow.jpg` , ❄️ snow / ثلج (Match game)
+
+## Recordings (public/audio/)
+- [ ] `public/audio/words/ar-01.mp3` , say "باب"
+- [ ] `public/audio/words/ar-02.mp3` , say "كلب"
+- [ ] `public/audio/words/ar-03.mp3` , say "بطة"
+- [ ] `public/audio/words/ar-04.mp3` , say "موز"
+- [ ] `public/audio/words/ar-05.mp3` , say "سمكة"
+- [ ] `public/audio/words/ar-06.mp3` , say "شمس"
+- [ ] `public/audio/words/ar-07.mp3` , say "قمر"
+- [ ] `public/audio/words/ar-08.mp3` , say "جمل"
+- [ ] `public/audio/words/ar-09.mp3` , say "بقرة"
+- [ ] `public/audio/words/ar-10.mp3` , say "ورد"
+- [ ] `public/audio/words/ar-11.mp3` , say "دب"
+- [ ] `public/audio/words/ar-12.mp3` , say "فيل"
+- [ ] `public/audio/words/ar-13.mp3` , say "تفاحة"
+- [ ] `public/audio/ar-letters-01.mp3` , say "ألف"
+- [ ] `public/audio/ar-letters-02.mp3` , say "باء"
+- [ ] `public/audio/ar-letters-03.mp3` , say "تاء"
+- [ ] `public/audio/ar-letters-04.mp3` , say "ثاء"
+- [ ] `public/audio/ar-letters-05.mp3` , say "جيم"
+- [ ] `public/audio/ar-letters-06.mp3` , say "حاء"
+- [ ] `public/audio/ar-letters-07.mp3` , say "خاء"
+- [ ] `public/audio/ar-letters-08.mp3` , say "دال"
+- [ ] `public/audio/ar-letters-09.mp3` , say "ذال"
+- [ ] `public/audio/ar-letters-10.mp3` , say "راء"
+- [ ] `public/audio/ar-letters-11.mp3` , say "زاي"
+- [ ] `public/audio/ar-letters-12.mp3` , say "سين"
+- [ ] `public/audio/ar-letters-13.mp3` , say "شين"
+- [ ] `public/audio/ar-letters-14.mp3` , say "صاد"
+- [ ] `public/audio/ar-letters-15.mp3` , say "ضاد"
+- [ ] `public/audio/ar-letters-16.mp3` , say "طاء"
+- [ ] `public/audio/ar-letters-17.mp3` , say "ظاء"
+- [ ] `public/audio/ar-letters-18.mp3` , say "عين"
+- [ ] `public/audio/ar-letters-19.mp3` , say "غين"
+- [ ] `public/audio/ar-letters-20.mp3` , say "فاء"
+- [ ] `public/audio/ar-letters-21.mp3` , say "قاف"
+- [ ] `public/audio/ar-letters-22.mp3` , say "كاف"
+- [ ] `public/audio/ar-letters-23.mp3` , say "لام"
+- [ ] `public/audio/ar-letters-24.mp3` , say "ميم"
+- [ ] `public/audio/ar-letters-25.mp3` , say "نون"
+- [ ] `public/audio/ar-letters-26.mp3` , say "هاء"
+- [ ] `public/audio/ar-letters-27.mp3` , say "واو"
+- [ ] `public/audio/ar-letters-28.mp3` , say "ياء"
+- [ ] `public/audio/words/cat.mp3` , say "cat"
+- [ ] `public/audio/words/dog.mp3` , say "dog"
+- [ ] `public/audio/words/sun.mp3` , say "sun"
+- [ ] `public/audio/words/bus.mp3` , say "bus"
+- [ ] `public/audio/words/fish.mp3` , say "fish"
+- [ ] `public/audio/words/ball.mp3` , say "ball"
+- [ ] `public/audio/words/bed.mp3` , say "bed"
+- [ ] `public/audio/words/pig.mp3` , say "pig"
+- [ ] `public/audio/words/duck.mp3` , say "duck"
+- [ ] `public/audio/words/bat.mp3` , say "bat"
+- [ ] `public/audio/words/map.mp3` , say "map"
+- [ ] `public/audio/words/pen.mp3` , say "pen"
+- [ ] `public/audio/en-letters-01.mp3` , say "ay"
+- [ ] `public/audio/en-letters-02.mp3` , say "bee"
+- [ ] `public/audio/en-letters-03.mp3` , say "see"
+- [ ] `public/audio/en-letters-04.mp3` , say "dee"
+- [ ] `public/audio/en-letters-05.mp3` , say "ee"
+- [ ] `public/audio/en-letters-06.mp3` , say "eff"
+- [ ] `public/audio/en-letters-07.mp3` , say "jee"
+- [ ] `public/audio/en-letters-08.mp3` , say "aitch"
+- [ ] `public/audio/en-letters-09.mp3` , say "eye"
+- [ ] `public/audio/en-letters-10.mp3` , say "jay"
+- [ ] `public/audio/en-letters-11.mp3` , say "kay"
+- [ ] `public/audio/en-letters-12.mp3` , say "el"
+- [ ] `public/audio/en-letters-13.mp3` , say "em"
+- [ ] `public/audio/en-letters-14.mp3` , say "en"
+- [ ] `public/audio/en-letters-15.mp3` , say "oh"
+- [ ] `public/audio/en-letters-16.mp3` , say "pee"
+- [ ] `public/audio/en-letters-17.mp3` , say "cue"
+- [ ] `public/audio/en-letters-18.mp3` , say "ar"
+- [ ] `public/audio/en-letters-19.mp3` , say "ess"
+- [ ] `public/audio/en-letters-20.mp3` , say "tee"
+- [ ] `public/audio/en-letters-21.mp3` , say "you"
+- [ ] `public/audio/en-letters-22.mp3` , say "vee"
+- [ ] `public/audio/en-letters-23.mp3` , say "double you"
+- [ ] `public/audio/en-letters-24.mp3` , say "ex"
+- [ ] `public/audio/en-letters-25.mp3` , say "why"
+- [ ] `public/audio/en-letters-26.mp3` , say "zed"
+- [ ] `public/audio/numbers-01-en.mp3` , say "one" (en)
+- [ ] `public/audio/numbers-01-ar.mp3` , say "واحد" (ar)
+- [ ] `public/audio/numbers-02-en.mp3` , say "two" (en)
+- [ ] `public/audio/numbers-02-ar.mp3` , say "اثنان" (ar)
+- [ ] `public/audio/numbers-03-en.mp3` , say "three" (en)
+- [ ] `public/audio/numbers-03-ar.mp3` , say "ثلاثة" (ar)
+- [ ] `public/audio/numbers-04-en.mp3` , say "four" (en)
+- [ ] `public/audio/numbers-04-ar.mp3` , say "أربعة" (ar)
+- [ ] `public/audio/numbers-05-en.mp3` , say "five" (en)
+- [ ] `public/audio/numbers-05-ar.mp3` , say "خمسة" (ar)
+- [ ] `public/audio/numbers-06-en.mp3` , say "six" (en)
+- [ ] `public/audio/numbers-06-ar.mp3` , say "ستة" (ar)
+- [ ] `public/audio/numbers-07-en.mp3` , say "seven" (en)
+- [ ] `public/audio/numbers-07-ar.mp3` , say "سبعة" (ar)
+- [ ] `public/audio/numbers-08-en.mp3` , say "eight" (en)
+- [ ] `public/audio/numbers-08-ar.mp3` , say "ثمانية" (ar)
+- [ ] `public/audio/numbers-09-en.mp3` , say "nine" (en)
+- [ ] `public/audio/numbers-09-ar.mp3` , say "تسعة" (ar)
+- [ ] `public/audio/numbers-10-en.mp3` , say "ten" (en)
+- [ ] `public/audio/numbers-10-ar.mp3` , say "عشرة" (ar)
+- [ ] `public/audio/shapes-01.mp3` , say "{"en":"circle","ar":"دائرة"}"
+- [ ] `public/audio/shapes-02.mp3` , say "{"en":"square","ar":"مربع"}"
+- [ ] `public/audio/shapes-03.mp3` , say "{"en":"triangle","ar":"مثلث"}"
+- [ ] `public/audio/shapes-04.mp3` , say "{"en":"rectangle","ar":"مستطيل"}"
+- [ ] `public/audio/shapes-05.mp3` , say "{"en":"star","ar":"نجمة"}"
+- [ ] `public/audio/shapes-06.mp3` , say "{"en":"heart","ar":"قلب"}"
+- [ ] `public/audio/shapes-07.mp3` , say "{"en":"oval","ar":"بيضاوي"}"
+- [ ] `public/audio/shapes-08.mp3` , say "{"en":"diamond","ar":"معيّن"}"
+- [ ] `public/audio/vocab-cat-en.mp3` , say "cat" (en)
+- [ ] `public/audio/vocab-cat-ar.mp3` , say "قطة" (ar)
+- [ ] `public/audio/vocab-dog-en.mp3` , say "dog" (en)
+- [ ] `public/audio/vocab-dog-ar.mp3` , say "كلب" (ar)
+- [ ] `public/audio/vocab-cow-en.mp3` , say "cow" (en)
+- [ ] `public/audio/vocab-cow-ar.mp3` , say "بقرة" (ar)
+- [ ] `public/audio/vocab-duck-en.mp3` , say "duck" (en)
+- [ ] `public/audio/vocab-duck-ar.mp3` , say "بطة" (ar)
+- [ ] `public/audio/vocab-fish-en.mp3` , say "fish" (en)
+- [ ] `public/audio/vocab-fish-ar.mp3` , say "سمكة" (ar)
+- [ ] `public/audio/vocab-bird-en.mp3` , say "bird" (en)
+- [ ] `public/audio/vocab-bird-ar.mp3` , say "عصفور" (ar)
+- [ ] `public/audio/vocab-horse-en.mp3` , say "horse" (en)
+- [ ] `public/audio/vocab-horse-ar.mp3` , say "حصان" (ar)
+- [ ] `public/audio/vocab-rabbit-en.mp3` , say "rabbit" (en)
+- [ ] `public/audio/vocab-rabbit-ar.mp3` , say "أرنب" (ar)
+- [ ] `public/audio/vocab-lion-en.mp3` , say "lion" (en)
+- [ ] `public/audio/vocab-lion-ar.mp3` , say "أسد" (ar)
+- [ ] `public/audio/vocab-elephant-en.mp3` , say "elephant" (en)
+- [ ] `public/audio/vocab-elephant-ar.mp3` , say "فيل" (ar)
+- [ ] `public/audio/vocab-monkey-en.mp3` , say "monkey" (en)
+- [ ] `public/audio/vocab-monkey-ar.mp3` , say "قرد" (ar)
+- [ ] `public/audio/vocab-sheep-en.mp3` , say "sheep" (en)
+- [ ] `public/audio/vocab-sheep-ar.mp3` , say "خروف" (ar)
+- [ ] `public/audio/vocab-apple-en.mp3` , say "apple" (en)
+- [ ] `public/audio/vocab-apple-ar.mp3` , say "تفاحة" (ar)
+- [ ] `public/audio/vocab-banana-en.mp3` , say "banana" (en)
+- [ ] `public/audio/vocab-banana-ar.mp3` , say "موزة" (ar)
+- [ ] `public/audio/vocab-orange-en.mp3` , say "orange" (en)
+- [ ] `public/audio/vocab-orange-ar.mp3` , say "برتقالة" (ar)
+- [ ] `public/audio/vocab-grapes-en.mp3` , say "grapes" (en)
+- [ ] `public/audio/vocab-grapes-ar.mp3` , say "عنب" (ar)
+- [ ] `public/audio/vocab-strawberry-en.mp3` , say "strawberry" (en)
+- [ ] `public/audio/vocab-strawberry-ar.mp3` , say "فراولة" (ar)
+- [ ] `public/audio/vocab-watermelon-en.mp3` , say "watermelon" (en)
+- [ ] `public/audio/vocab-watermelon-ar.mp3` , say "بطيخ" (ar)
+- [ ] `public/audio/vocab-carrot-en.mp3` , say "carrot" (en)
+- [ ] `public/audio/vocab-carrot-ar.mp3` , say "جزرة" (ar)
+- [ ] `public/audio/vocab-bread-en.mp3` , say "bread" (en)
+- [ ] `public/audio/vocab-bread-ar.mp3` , say "خبز" (ar)
+- [ ] `public/audio/vocab-milk-en.mp3` , say "milk" (en)
+- [ ] `public/audio/vocab-milk-ar.mp3` , say "حليب" (ar)
+- [ ] `public/audio/vocab-egg-en.mp3` , say "egg" (en)
+- [ ] `public/audio/vocab-egg-ar.mp3` , say "بيضة" (ar)
+- [ ] `public/audio/vocab-cheese-en.mp3` , say "cheese" (en)
+- [ ] `public/audio/vocab-cheese-ar.mp3` , say "جبنة" (ar)
+- [ ] `public/audio/vocab-cake-en.mp3` , say "cake" (en)
+- [ ] `public/audio/vocab-cake-ar.mp3` , say "كعكة" (ar)
+- [ ] `public/audio/vocab-ball-en.mp3` , say "ball" (en)
+- [ ] `public/audio/vocab-ball-ar.mp3` , say "كرة" (ar)
+- [ ] `public/audio/vocab-book-en.mp3` , say "book" (en)
+- [ ] `public/audio/vocab-book-ar.mp3` , say "كتاب" (ar)
+- [ ] `public/audio/vocab-car-en.mp3` , say "car" (en)
+- [ ] `public/audio/vocab-car-ar.mp3` , say "سيارة" (ar)
+- [ ] `public/audio/vocab-house-en.mp3` , say "house" (en)
+- [ ] `public/audio/vocab-house-ar.mp3` , say "بيت" (ar)
+- [ ] `public/audio/vocab-chair-en.mp3` , say "chair" (en)
+- [ ] `public/audio/vocab-chair-ar.mp3` , say "كرسي" (ar)
+- [ ] `public/audio/vocab-bed-en.mp3` , say "bed" (en)
+- [ ] `public/audio/vocab-bed-ar.mp3` , say "سرير" (ar)
+- [ ] `public/audio/vocab-door-en.mp3` , say "door" (en)
+- [ ] `public/audio/vocab-door-ar.mp3` , say "باب" (ar)
+- [ ] `public/audio/vocab-clock-en.mp3` , say "clock" (en)
+- [ ] `public/audio/vocab-clock-ar.mp3` , say "ساعة" (ar)
+- [ ] `public/audio/vocab-shoe-en.mp3` , say "shoe" (en)
+- [ ] `public/audio/vocab-shoe-ar.mp3` , say "حذاء" (ar)
+- [ ] `public/audio/vocab-hat-en.mp3` , say "hat" (en)
+- [ ] `public/audio/vocab-hat-ar.mp3` , say "قبعة" (ar)
+- [ ] `public/audio/vocab-key-en.mp3` , say "key" (en)
+- [ ] `public/audio/vocab-key-ar.mp3` , say "مفتاح" (ar)
+- [ ] `public/audio/vocab-cup-en.mp3` , say "cup" (en)
+- [ ] `public/audio/vocab-cup-ar.mp3` , say "كوب" (ar)
+- [ ] `public/audio/vocab-sun-en.mp3` , say "sun" (en)
+- [ ] `public/audio/vocab-sun-ar.mp3` , say "شمس" (ar)
+- [ ] `public/audio/vocab-moon-en.mp3` , say "moon" (en)
+- [ ] `public/audio/vocab-moon-ar.mp3` , say "قمر" (ar)
+- [ ] `public/audio/vocab-star-en.mp3` , say "star" (en)
+- [ ] `public/audio/vocab-star-ar.mp3` , say "نجمة" (ar)
+- [ ] `public/audio/vocab-tree-en.mp3` , say "tree" (en)
+- [ ] `public/audio/vocab-tree-ar.mp3` , say "شجرة" (ar)
+- [ ] `public/audio/vocab-flower-en.mp3` , say "flower" (en)
+- [ ] `public/audio/vocab-flower-ar.mp3` , say "وردة" (ar)
+- [ ] `public/audio/vocab-rain-en.mp3` , say "rain" (en)
+- [ ] `public/audio/vocab-rain-ar.mp3` , say "مطر" (ar)
+- [ ] `public/audio/vocab-cloud-en.mp3` , say "cloud" (en)
+- [ ] `public/audio/vocab-cloud-ar.mp3` , say "سحابة" (ar)
+- [ ] `public/audio/vocab-mountain-en.mp3` , say "mountain" (en)
+- [ ] `public/audio/vocab-mountain-ar.mp3` , say "جبل" (ar)
+- [ ] `public/audio/vocab-fire-en.mp3` , say "fire" (en)
+- [ ] `public/audio/vocab-fire-ar.mp3` , say "نار" (ar)
+- [ ] `public/audio/vocab-snow-en.mp3` , say "snow" (en)
+- [ ] `public/audio/vocab-snow-ar.mp3` , say "ثلج" (ar)
+
+## Mascot images (public/characters/)
+- [ ] `public/characters/happy.gif` , mascot, happy mood (GIF/PNG/WebP/SVG, transparent background)
+- [ ] `public/characters/cheer.gif` , mascot, cheer mood (GIF/PNG/WebP/SVG, transparent background)
+- [ ] `public/characters/think.gif` , mascot, think mood (GIF/PNG/WebP/SVG, transparent background)

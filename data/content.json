@@ -1,0 +1,1248 @@
+{
+  "domains": [
+    {
+      "id": "ar-letters",
+      "title": {
+        "en": "Arabic letters",
+        "ar": "الحروف العربية"
+      },
+      "icon": "ب",
+      "lang": "ar",
+      "speechLang": "ar-SA",
+      "dir": "rtl",
+      "questionTypes": [
+        "sound",
+        "missing",
+        "trace",
+        "build",
+        "dots"
+      ],
+      "items": [
+        {
+          "id": "ا",
+          "label": "ا",
+          "say": "أَلِف",
+          "sound": "أَ"
+        },
+        {
+          "id": "ب",
+          "label": "ب",
+          "say": "بَاء",
+          "sound": "بَ"
+        },
+        {
+          "id": "ت",
+          "label": "ت",
+          "say": "تَاء",
+          "sound": "تَ"
+        },
+        {
+          "id": "ث",
+          "label": "ث",
+          "say": "ثَاء",
+          "sound": "ثَ"
+        },
+        {
+          "id": "ج",
+          "label": "ج",
+          "say": "جِيم",
+          "sound": "جَ"
+        },
+        {
+          "id": "ح",
+          "label": "ح",
+          "say": "حَاء",
+          "sound": "حَ"
+        },
+        {
+          "id": "خ",
+          "label": "خ",
+          "say": "خَاء",
+          "sound": "خَ"
+        },
+        {
+          "id": "د",
+          "label": "د",
+          "say": "دَال",
+          "sound": "دَ"
+        },
+        {
+          "id": "ذ",
+          "label": "ذ",
+          "say": "ذَال",
+          "sound": "ذَ"
+        },
+        {
+          "id": "ر",
+          "label": "ر",
+          "say": "رَاء",
+          "sound": "رَ"
+        },
+        {
+          "id": "ز",
+          "label": "ز",
+          "say": "زَاي",
+          "sound": "زَ"
+        },
+        {
+          "id": "س",
+          "label": "س",
+          "say": "سِين",
+          "sound": "سَ"
+        },
+        {
+          "id": "ش",
+          "label": "ش",
+          "say": "شِين",
+          "sound": "شَ"
+        },
+        {
+          "id": "ص",
+          "label": "ص",
+          "say": "صَاد",
+          "sound": "صَ"
+        },
+        {
+          "id": "ض",
+          "label": "ض",
+          "say": "ضَاد",
+          "sound": "ضَ"
+        },
+        {
+          "id": "ط",
+          "label": "ط",
+          "say": "طَاء",
+          "sound": "طَ"
+        },
+        {
+          "id": "ظ",
+          "label": "ظ",
+          "say": "ظَاء",
+          "sound": "ظَ"
+        },
+        {
+          "id": "ع",
+          "label": "ع",
+          "say": "عَيْن",
+          "sound": "عَ"
+        },
+        {
+          "id": "غ",
+          "label": "غ",
+          "say": "غَيْن",
+          "sound": "غَ"
+        },
+        {
+          "id": "ف",
+          "label": "ف",
+          "say": "فَاء",
+          "sound": "فَ"
+        },
+        {
+          "id": "ق",
+          "label": "ق",
+          "say": "قَاف",
+          "sound": "قَ"
+        },
+        {
+          "id": "ك",
+          "label": "ك",
+          "say": "كَاف",
+          "sound": "كَ"
+        },
+        {
+          "id": "ل",
+          "label": "ل",
+          "say": "لَام",
+          "sound": "لَ"
+        },
+        {
+          "id": "م",
+          "label": "م",
+          "say": "مِيم",
+          "sound": "مَ"
+        },
+        {
+          "id": "ن",
+          "label": "ن",
+          "say": "نُون",
+          "sound": "نَ"
+        },
+        {
+          "id": "ه",
+          "label": "ه",
+          "say": "هَاء",
+          "sound": "هَ"
+        },
+        {
+          "id": "و",
+          "label": "و",
+          "say": "وَاو",
+          "sound": "وَ"
+        },
+        {
+          "id": "ي",
+          "label": "ي",
+          "say": "يَاء",
+          "sound": "يَ"
+        }
+      ],
+      "groups": [
+        [
+          "ب",
+          "ت",
+          "ث"
+        ],
+        [
+          "ج",
+          "ح",
+          "خ"
+        ],
+        [
+          "د",
+          "ذ"
+        ],
+        [
+          "ر",
+          "ز"
+        ],
+        [
+          "س",
+          "ش"
+        ],
+        [
+          "ص",
+          "ض"
+        ],
+        [
+          "ط",
+          "ظ"
+        ],
+        [
+          "ع",
+          "غ"
+        ],
+        [
+          "ف",
+          "ق"
+        ]
+      ],
+      "words": [
+        {
+          "text": "باب",
+          "emoji": "🚪",
+          "say": "باب"
+        },
+        {
+          "text": "كلب",
+          "emoji": "🐶",
+          "say": "كلب"
+        },
+        {
+          "text": "بطة",
+          "emoji": "🦆",
+          "say": "بطة"
+        },
+        {
+          "text": "موز",
+          "emoji": "🍌",
+          "say": "موز"
+        },
+        {
+          "text": "سمكة",
+          "emoji": "🐟",
+          "say": "سمكة"
+        },
+        {
+          "text": "شمس",
+          "emoji": "☀️",
+          "say": "شمس"
+        },
+        {
+          "text": "قمر",
+          "emoji": "🌙",
+          "say": "قمر"
+        },
+        {
+          "text": "جمل",
+          "emoji": "🐫",
+          "say": "جمل"
+        },
+        {
+          "text": "بقرة",
+          "emoji": "🐄",
+          "say": "بقرة"
+        },
+        {
+          "text": "ورد",
+          "emoji": "🌹",
+          "say": "ورد"
+        },
+        {
+          "text": "دب",
+          "emoji": "🐻",
+          "say": "دب"
+        },
+        {
+          "text": "فيل",
+          "emoji": "🐘",
+          "say": "فيل"
+        },
+        {
+          "text": "تفاحة",
+          "emoji": "🍎",
+          "say": "تفاحة"
+        },
+        {
+          "text": "أسد",
+          "emoji": "🦁",
+          "say": "أسد"
+        },
+        {
+          "text": "أرنب",
+          "emoji": "🐰",
+          "say": "أرنب"
+        }
+      ],
+      "memory": {
+        "picture": "word"
+      },
+      "dots": {
+        "ب": {
+          "skeleton": "ٮ",
+          "above": 0,
+          "below": 1
+        },
+        "ت": {
+          "skeleton": "ٮ",
+          "above": 2,
+          "below": 0
+        },
+        "ث": {
+          "skeleton": "ٮ",
+          "above": 3,
+          "below": 0
+        },
+        "ن": {
+          "skeleton": "ں",
+          "above": 1,
+          "below": 0
+        },
+        "ي": {
+          "skeleton": "ى",
+          "above": 0,
+          "below": 2
+        },
+        "ج": {
+          "skeleton": "ح",
+          "above": 0,
+          "below": 1
+        },
+        "ح": {
+          "skeleton": "ح",
+          "above": 0,
+          "below": 0
+        },
+        "خ": {
+          "skeleton": "ح",
+          "above": 1,
+          "below": 0
+        },
+        "د": {
+          "skeleton": "د",
+          "above": 0,
+          "below": 0
+        },
+        "ذ": {
+          "skeleton": "د",
+          "above": 1,
+          "below": 0
+        },
+        "ر": {
+          "skeleton": "ر",
+          "above": 0,
+          "below": 0
+        },
+        "ز": {
+          "skeleton": "ر",
+          "above": 1,
+          "below": 0
+        },
+        "س": {
+          "skeleton": "س",
+          "above": 0,
+          "below": 0
+        },
+        "ش": {
+          "skeleton": "س",
+          "above": 3,
+          "below": 0
+        },
+        "ص": {
+          "skeleton": "ص",
+          "above": 0,
+          "below": 0
+        },
+        "ض": {
+          "skeleton": "ص",
+          "above": 1,
+          "below": 0
+        },
+        "ط": {
+          "skeleton": "ط",
+          "above": 0,
+          "below": 0
+        },
+        "ظ": {
+          "skeleton": "ط",
+          "above": 1,
+          "below": 0
+        },
+        "ع": {
+          "skeleton": "ع",
+          "above": 0,
+          "below": 0
+        },
+        "غ": {
+          "skeleton": "ع",
+          "above": 1,
+          "below": 0
+        }
+      }
+    },
+    {
+      "id": "en-letters",
+      "title": {
+        "en": "English letters",
+        "ar": "الحروف الإنجليزية"
+      },
+      "icon": "A",
+      "lang": "en",
+      "speechLang": "en-US",
+      "dir": "ltr",
+      "questionTypes": [
+        "sound",
+        "missing",
+        "trace",
+        "build",
+        "parts"
+      ],
+      "items": [
+        {
+          "id": "a",
+          "label": "a",
+          "say": "ay",
+          "sound": "ah"
+        },
+        {
+          "id": "b",
+          "label": "b",
+          "say": "bee",
+          "sound": "buh"
+        },
+        {
+          "id": "c",
+          "label": "c",
+          "say": "see",
+          "sound": "kuh"
+        },
+        {
+          "id": "d",
+          "label": "d",
+          "say": "dee",
+          "sound": "duh"
+        },
+        {
+          "id": "e",
+          "label": "e",
+          "say": "ee",
+          "sound": "eh"
+        },
+        {
+          "id": "f",
+          "label": "f",
+          "say": "eff",
+          "sound": "fuh"
+        },
+        {
+          "id": "g",
+          "label": "g",
+          "say": "jee",
+          "sound": "guh"
+        },
+        {
+          "id": "h",
+          "label": "h",
+          "say": "aitch",
+          "sound": "huh"
+        },
+        {
+          "id": "i",
+          "label": "i",
+          "say": "eye",
+          "sound": "ih"
+        },
+        {
+          "id": "j",
+          "label": "j",
+          "say": "jay",
+          "sound": "juh"
+        },
+        {
+          "id": "k",
+          "label": "k",
+          "say": "kay",
+          "sound": "kuh"
+        },
+        {
+          "id": "l",
+          "label": "l",
+          "say": "el",
+          "sound": "luh"
+        },
+        {
+          "id": "m",
+          "label": "m",
+          "say": "em",
+          "sound": "muh"
+        },
+        {
+          "id": "n",
+          "label": "n",
+          "say": "en",
+          "sound": "nuh"
+        },
+        {
+          "id": "o",
+          "label": "o",
+          "say": "oh",
+          "sound": "aw"
+        },
+        {
+          "id": "p",
+          "label": "p",
+          "say": "pee",
+          "sound": "puh"
+        },
+        {
+          "id": "q",
+          "label": "q",
+          "say": "cue",
+          "sound": "kwuh"
+        },
+        {
+          "id": "r",
+          "label": "r",
+          "say": "ar",
+          "sound": "ruh"
+        },
+        {
+          "id": "s",
+          "label": "s",
+          "say": "ess",
+          "sound": "suh"
+        },
+        {
+          "id": "t",
+          "label": "t",
+          "say": "tee",
+          "sound": "tuh"
+        },
+        {
+          "id": "u",
+          "label": "u",
+          "say": "you",
+          "sound": "uh"
+        },
+        {
+          "id": "v",
+          "label": "v",
+          "say": "vee",
+          "sound": "vuh"
+        },
+        {
+          "id": "w",
+          "label": "w",
+          "say": "double you",
+          "sound": "wuh"
+        },
+        {
+          "id": "x",
+          "label": "x",
+          "say": "ex",
+          "sound": "ks"
+        },
+        {
+          "id": "y",
+          "label": "y",
+          "say": "why",
+          "sound": "yuh"
+        },
+        {
+          "id": "z",
+          "label": "z",
+          "say": "zed",
+          "sound": "zuh"
+        }
+      ],
+      "groups": [
+        [
+          "b",
+          "d"
+        ],
+        [
+          "p",
+          "q"
+        ],
+        [
+          "m",
+          "n"
+        ],
+        [
+          "i",
+          "l"
+        ],
+        [
+          "v",
+          "w"
+        ]
+      ],
+      "words": [
+        {
+          "text": "cat",
+          "emoji": "🐱",
+          "say": "cat"
+        },
+        {
+          "text": "dog",
+          "emoji": "🐶",
+          "say": "dog"
+        },
+        {
+          "text": "sun",
+          "emoji": "☀️",
+          "say": "sun"
+        },
+        {
+          "text": "bus",
+          "emoji": "🚌",
+          "say": "bus"
+        },
+        {
+          "text": "fish",
+          "emoji": "🐟",
+          "say": "fish"
+        },
+        {
+          "text": "ball",
+          "emoji": "⚽",
+          "say": "ball"
+        },
+        {
+          "text": "bed",
+          "emoji": "🛏️",
+          "say": "bed"
+        },
+        {
+          "text": "pig",
+          "emoji": "🐷",
+          "say": "pig"
+        },
+        {
+          "text": "duck",
+          "emoji": "🦆",
+          "say": "duck"
+        },
+        {
+          "text": "bat",
+          "emoji": "🦇",
+          "say": "bat"
+        },
+        {
+          "text": "map",
+          "emoji": "🗺️",
+          "say": "map"
+        },
+        {
+          "text": "pen",
+          "emoji": "🖊️",
+          "say": "pen"
+        }
+      ],
+      "memory": {
+        "picture": "word"
+      },
+      "parts": {
+        "b": {
+          "x": "right",
+          "y": "bottom"
+        },
+        "d": {
+          "x": "left",
+          "y": "bottom"
+        },
+        "p": {
+          "x": "right",
+          "y": "top"
+        },
+        "q": {
+          "x": "left",
+          "y": "top"
+        }
+      }
+    },
+    {
+      "id": "numbers",
+      "title": {
+        "en": "Numbers",
+        "ar": "الأرقام"
+      },
+      "icon": "٣",
+      "lang": "ui",
+      "dir": "ui",
+      "questionTypes": [
+        "count",
+        "sound",
+        "trace",
+        "hop",
+        "bake"
+      ],
+      "countEmoji": [
+        "🍎",
+        "⭐",
+        "🐟",
+        "🎈",
+        "🐥",
+        "🌸"
+      ],
+      "items": [
+        {
+          "id": "1",
+          "n": 1,
+          "label": {
+            "en": "1",
+            "ar": "١"
+          },
+          "say": {
+            "en": "one",
+            "ar": "واحد"
+          }
+        },
+        {
+          "id": "2",
+          "n": 2,
+          "label": {
+            "en": "2",
+            "ar": "٢"
+          },
+          "say": {
+            "en": "two",
+            "ar": "اثنان"
+          }
+        },
+        {
+          "id": "3",
+          "n": 3,
+          "label": {
+            "en": "3",
+            "ar": "٣"
+          },
+          "say": {
+            "en": "three",
+            "ar": "ثلاثة"
+          }
+        },
+        {
+          "id": "4",
+          "n": 4,
+          "label": {
+            "en": "4",
+            "ar": "٤"
+          },
+          "say": {
+            "en": "four",
+            "ar": "أربعة"
+          }
+        },
+        {
+          "id": "5",
+          "n": 5,
+          "label": {
+            "en": "5",
+            "ar": "٥"
+          },
+          "say": {
+            "en": "five",
+            "ar": "خمسة"
+          }
+        },
+        {
+          "id": "6",
+          "n": 6,
+          "label": {
+            "en": "6",
+            "ar": "٦"
+          },
+          "say": {
+            "en": "six",
+            "ar": "ستة"
+          }
+        },
+        {
+          "id": "7",
+          "n": 7,
+          "label": {
+            "en": "7",
+            "ar": "٧"
+          },
+          "say": {
+            "en": "seven",
+            "ar": "سبعة"
+          }
+        },
+        {
+          "id": "8",
+          "n": 8,
+          "label": {
+            "en": "8",
+            "ar": "٨"
+          },
+          "say": {
+            "en": "eight",
+            "ar": "ثمانية"
+          }
+        },
+        {
+          "id": "9",
+          "n": 9,
+          "label": {
+            "en": "9",
+            "ar": "٩"
+          },
+          "say": {
+            "en": "nine",
+            "ar": "تسعة"
+          }
+        },
+        {
+          "id": "10",
+          "n": 10,
+          "label": {
+            "en": "10",
+            "ar": "١٠"
+          },
+          "say": {
+            "en": "ten",
+            "ar": "عشرة"
+          }
+        }
+      ],
+      "groups": [
+        [
+          "2",
+          "5"
+        ],
+        [
+          "3",
+          "8"
+        ],
+        [
+          "6",
+          "9"
+        ]
+      ],
+      "memory": {
+        "picture": "count",
+        "maxN": 6
+      },
+      "asks": {
+        "sound": "askSoundNum",
+        "trace": "askTraceNum"
+      }
+    },
+    {
+      "id": "shapes",
+      "title": {
+        "en": "Shapes",
+        "ar": "الأشكال"
+      },
+      "icon": "🔷",
+      "lang": "ui",
+      "dir": "ui",
+      "kind": "shape",
+      "questionTypes": [
+        "sound",
+        "example"
+      ],
+      "asks": {
+        "sound": "askShape",
+        "example": "askExample"
+      },
+      "items": [
+        {
+          "id": "circle",
+          "label": {
+            "en": "circle",
+            "ar": "دائرة"
+          },
+          "say": {
+            "en": "circle",
+            "ar": "دائرة"
+          },
+          "color": "#ff7a59",
+          "fact": {
+            "en": "Round. No corners.",
+            "ar": "مستديرة. بلا زوايا."
+          }
+        },
+        {
+          "id": "square",
+          "label": {
+            "en": "square",
+            "ar": "مربع"
+          },
+          "say": {
+            "en": "square",
+            "ar": "مربع"
+          },
+          "color": "#3b9ae1",
+          "fact": {
+            "en": "4 sides that are all the same length.",
+            "ar": "٤ أضلاع متساوية في الطول."
+          }
+        },
+        {
+          "id": "triangle",
+          "label": {
+            "en": "triangle",
+            "ar": "مثلث"
+          },
+          "say": {
+            "en": "triangle",
+            "ar": "مثلث"
+          },
+          "color": "#3bb273",
+          "fact": {
+            "en": "3 sides and 3 corners.",
+            "ar": "٣ أضلاع و٣ زوايا."
+          }
+        },
+        {
+          "id": "rectangle",
+          "label": {
+            "en": "rectangle",
+            "ar": "مستطيل"
+          },
+          "say": {
+            "en": "rectangle",
+            "ar": "مستطيل"
+          },
+          "color": "#f4b942",
+          "fact": {
+            "en": "4 sides: 2 long and 2 short.",
+            "ar": "٤ أضلاع: اثنان طويلان واثنان قصيران."
+          }
+        },
+        {
+          "id": "star",
+          "label": {
+            "en": "star",
+            "ar": "نجمة"
+          },
+          "say": {
+            "en": "star",
+            "ar": "نجمة"
+          },
+          "color": "#ffb300",
+          "fact": {
+            "en": "5 points sticking out.",
+            "ar": "٥ رؤوس بارزة."
+          }
+        },
+        {
+          "id": "heart",
+          "label": {
+            "en": "heart",
+            "ar": "قلب"
+          },
+          "say": {
+            "en": "heart",
+            "ar": "قلب"
+          },
+          "color": "#e84a7f",
+          "fact": {
+            "en": "Round on top, a point at the bottom.",
+            "ar": "مستدير من فوق ومدبب من تحت."
+          }
+        },
+        {
+          "id": "oval",
+          "label": {
+            "en": "oval",
+            "ar": "بيضاوي"
+          },
+          "say": {
+            "en": "oval",
+            "ar": "بيضاوي"
+          },
+          "color": "#8a5cf6",
+          "fact": {
+            "en": "Like a circle that got stretched.",
+            "ar": "مثل دائرة تم شدّها."
+          }
+        },
+        {
+          "id": "diamond",
+          "label": {
+            "en": "diamond",
+            "ar": "معيّن"
+          },
+          "say": {
+            "en": "diamond",
+            "ar": "معيّن"
+          },
+          "color": "#1fb5b5",
+          "fact": {
+            "en": "A square standing on its corner.",
+            "ar": "مربع واقف على زاويته."
+          }
+        }
+      ],
+      "groups": [
+        [
+          "circle",
+          "oval"
+        ],
+        [
+          "square",
+          "rectangle",
+          "diamond"
+        ]
+      ],
+      "examples": {
+        "circle": [
+          {
+            "emoji": "☀️",
+            "text": {
+              "en": "sun",
+              "ar": "شمس"
+            }
+          },
+          {
+            "emoji": "⚽",
+            "text": {
+              "en": "ball",
+              "ar": "كرة"
+            }
+          },
+          {
+            "emoji": "🕒",
+            "text": {
+              "en": "clock",
+              "ar": "ساعة"
+            }
+          },
+          {
+            "emoji": "🪙",
+            "text": {
+              "en": "coin",
+              "ar": "عملة"
+            }
+          }
+        ],
+        "square": [
+          {
+            "emoji": "🧽",
+            "text": {
+              "en": "sponge",
+              "ar": "إسفنجة"
+            }
+          },
+          {
+            "emoji": "🎁",
+            "text": {
+              "en": "gift box",
+              "ar": "علبة هدية"
+            }
+          },
+          {
+            "emoji": "🪟",
+            "text": {
+              "en": "window",
+              "ar": "نافذة"
+            }
+          },
+          {
+            "emoji": "🎲",
+            "text": {
+              "en": "dice",
+              "ar": "نرد"
+            }
+          }
+        ],
+        "triangle": [
+          {
+            "emoji": "🍕",
+            "text": {
+              "en": "pizza slice",
+              "ar": "شريحة بيتزا"
+            }
+          },
+          {
+            "emoji": "⛰️",
+            "text": {
+              "en": "mountain",
+              "ar": "جبل"
+            }
+          },
+          {
+            "emoji": "🎄",
+            "text": {
+              "en": "tree",
+              "ar": "شجرة"
+            }
+          },
+          {
+            "emoji": "⛵",
+            "text": {
+              "en": "sailboat",
+              "ar": "مركب شراع"
+            }
+          }
+        ],
+        "rectangle": [
+          {
+            "emoji": "🚪",
+            "text": {
+              "en": "door",
+              "ar": "باب"
+            }
+          },
+          {
+            "emoji": "📱",
+            "text": {
+              "en": "phone",
+              "ar": "هاتف"
+            }
+          },
+          {
+            "emoji": "📺",
+            "text": {
+              "en": "TV",
+              "ar": "تلفاز"
+            }
+          },
+          {
+            "emoji": "🍫",
+            "text": {
+              "en": "chocolate",
+              "ar": "شوكولاتة"
+            }
+          }
+        ],
+        "star": [
+          {
+            "emoji": "⭐",
+            "text": {
+              "en": "star",
+              "ar": "نجمة"
+            }
+          },
+          {
+            "emoji": "🌟",
+            "text": {
+              "en": "shiny star",
+              "ar": "نجمة لامعة"
+            }
+          },
+          {
+            "emoji": "✨",
+            "text": {
+              "en": "sparkles",
+              "ar": "شرارات"
+            }
+          }
+        ],
+        "heart": [
+          {
+            "emoji": "❤️",
+            "text": {
+              "en": "heart",
+              "ar": "قلب"
+            }
+          },
+          {
+            "emoji": "💖",
+            "text": {
+              "en": "sparkly heart",
+              "ar": "قلب لامع"
+            }
+          },
+          {
+            "emoji": "💕",
+            "text": {
+              "en": "two hearts",
+              "ar": "قلبان"
+            }
+          }
+        ],
+        "oval": [
+          {
+            "emoji": "🥚",
+            "text": {
+              "en": "egg",
+              "ar": "بيضة"
+            }
+          },
+          {
+            "emoji": "🏈",
+            "text": {
+              "en": "rugby ball",
+              "ar": "كرة الرجبي"
+            }
+          },
+          {
+            "emoji": "🥑",
+            "text": {
+              "en": "avocado",
+              "ar": "أفوكادو"
+            }
+          },
+          {
+            "emoji": "🍋",
+            "text": {
+              "en": "lemon",
+              "ar": "ليمونة"
+            }
+          }
+        ],
+        "diamond": [
+          {
+            "emoji": "🪁",
+            "text": {
+              "en": "kite",
+              "ar": "طائرة ورقية"
+            }
+          },
+          {
+            "emoji": "💎",
+            "text": {
+              "en": "gem",
+              "ar": "جوهرة"
+            }
+          },
+          {
+            "emoji": "♦️",
+            "text": {
+              "en": "playing card",
+              "ar": "ورق لعب"
+            }
+          }
+        ]
+      },
+      "memory": {
+        "picture": "examples"
+      }
+    }
+  ]
+}

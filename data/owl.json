@@ -1,0 +1,8 @@
+{
+  "games": [
+    { "id": "look", "icon": "👀", "color": "#e4dcff" },
+    { "id": "line", "icon": "📏", "color": "#dff1ff" },
+    { "id": "more", "icon": "⚖️", "color": "#ffe9c7" }
+  ],
+  "emoji": ["🍎", "⭐", "🐟", "🎈", "🐥", "🌸", "🍪", "🦋"]
+}

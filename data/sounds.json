@@ -1,0 +1,124 @@
+{
+  "games": [
+    { "id": "rain",  "icon": "🌧️", "color": "#dff1ff" },
+    { "id": "drums", "icon": "🥁", "color": "#ffe3da" },
+    { "id": "hunt",  "icon": "🔎", "color": "#e1f6df" },
+    { "id": "blend", "icon": "🤖", "color": "#ece4ff" }
+  ],
+  "en": {
+    "domain": "en-letters",
+    "rhyme": {
+      "families": [
+        { "words": [ {"text":"cat","emoji":"🐱","say":"cat"}, {"text":"hat","emoji":"🎩","say":"hat"}, {"text":"bat","emoji":"🦇","say":"bat"}, {"text":"rat","emoji":"🐀","say":"rat"} ] },
+        { "words": [ {"text":"dog","emoji":"🐶","say":"dog"}, {"text":"log","emoji":"🪵","say":"log"}, {"text":"frog","emoji":"🐸","say":"frog"}, {"text":"fog","emoji":"🌫️","say":"fog"} ] },
+        { "words": [ {"text":"bee","emoji":"🐝","say":"bee"}, {"text":"tree","emoji":"🌳","say":"tree"}, {"text":"key","emoji":"🔑","say":"key"}, {"text":"knee","emoji":"🦵","say":"knee"} ] },
+        { "words": [ {"text":"cake","emoji":"🎂","say":"cake"}, {"text":"snake","emoji":"🐍","say":"snake"}, {"text":"lake","emoji":"🏞️","say":"lake"} ] },
+        { "words": [ {"text":"bug","emoji":"🐛","say":"bug"}, {"text":"mug","emoji":"☕","say":"mug"}, {"text":"hug","emoji":"🤗","say":"hug"}, {"text":"plug","emoji":"🔌","say":"plug"} ] },
+        { "words": [ {"text":"moon","emoji":"🌙","say":"moon"}, {"text":"spoon","emoji":"🥄","say":"spoon"}, {"text":"balloon","emoji":"🎈","say":"balloon"} ] },
+        { "words": [ {"text":"fox","emoji":"🦊","say":"fox"}, {"text":"box","emoji":"📦","say":"box"}, {"text":"socks","emoji":"🧦","say":"socks"} ] },
+        { "words": [ {"text":"chair","emoji":"🪑","say":"chair"}, {"text":"bear","emoji":"🐻","say":"bear"}, {"text":"pear","emoji":"🍐","say":"pear"} ] }
+      ]
+    },
+    "syllables": {
+      "words": [
+        {"text":"cat","emoji":"🐱","say":"cat","parts":["cat"]},
+        {"text":"dog","emoji":"🐶","say":"dog","parts":["dog"]},
+        {"text":"sun","emoji":"☀️","say":"sun","parts":["sun"]},
+        {"text":"apple","emoji":"🍎","say":"apple","parts":["ap","ple"]},
+        {"text":"tiger","emoji":"🐯","say":"tiger","parts":["ti","ger"]},
+        {"text":"rabbit","emoji":"🐰","say":"rabbit","parts":["rab","bit"]},
+        {"text":"pizza","emoji":"🍕","say":"pizza","parts":["piz","za"]},
+        {"text":"banana","emoji":"🍌","say":"banana","parts":["ba","na","na"]},
+        {"text":"elephant","emoji":"🐘","say":"elephant","parts":["el","e","phant"]},
+        {"text":"butterfly","emoji":"🦋","say":"butterfly","parts":["but","ter","fly"]},
+        {"text":"umbrella","emoji":"☂️","say":"umbrella","parts":["um","brel","la"]},
+        {"text":"kangaroo","emoji":"🦘","say":"kangaroo","parts":["kan","ga","roo"]},
+        {"text":"dinosaur","emoji":"🦖","say":"dinosaur","parts":["di","no","saur"]},
+        {"text":"watermelon","emoji":"🍉","say":"watermelon","parts":["wa","ter","mel","on"]},
+        {"text":"helicopter","emoji":"🚁","say":"helicopter","parts":["hel","i","cop","ter"]}
+      ]
+    },
+    "firstSound": {
+      "groups": [
+        { "letter":"b", "words":[ {"text":"bus","emoji":"🚌","say":"bus"}, {"text":"ball","emoji":"⚽","say":"ball"}, {"text":"bed","emoji":"🛏️","say":"bed"} ] },
+        { "letter":"c", "words":[ {"text":"cat","emoji":"🐱","say":"cat"}, {"text":"car","emoji":"🚗","say":"car"}, {"text":"cow","emoji":"🐄","say":"cow"} ] },
+        { "letter":"d", "words":[ {"text":"dog","emoji":"🐶","say":"dog"}, {"text":"duck","emoji":"🦆","say":"duck"}, {"text":"door","emoji":"🚪","say":"door"} ] },
+        { "letter":"f", "words":[ {"text":"fish","emoji":"🐟","say":"fish"}, {"text":"frog","emoji":"🐸","say":"frog"}, {"text":"fork","emoji":"🍴","say":"fork"} ] },
+        { "letter":"h", "words":[ {"text":"hat","emoji":"🎩","say":"hat"}, {"text":"horse","emoji":"🐴","say":"horse"}, {"text":"house","emoji":"🏠","say":"house"} ] },
+        { "letter":"m", "words":[ {"text":"moon","emoji":"🌙","say":"moon"}, {"text":"mouse","emoji":"🐭","say":"mouse"}, {"text":"milk","emoji":"🥛","say":"milk"} ] },
+        { "letter":"p", "words":[ {"text":"pig","emoji":"🐷","say":"pig"}, {"text":"pizza","emoji":"🍕","say":"pizza"}, {"text":"pen","emoji":"🖊️","say":"pen"} ] },
+        { "letter":"s", "words":[ {"text":"sun","emoji":"☀️","say":"sun"}, {"text":"sock","emoji":"🧦","say":"sock"}, {"text":"snake","emoji":"🐍","say":"snake"} ] },
+        { "letter":"t", "words":[ {"text":"tree","emoji":"🌳","say":"tree"}, {"text":"tiger","emoji":"🐯","say":"tiger"}, {"text":"train","emoji":"🚂","say":"train"} ] },
+        { "letter":"r", "words":[ {"text":"rabbit","emoji":"🐰","say":"rabbit"}, {"text":"ring","emoji":"💍","say":"ring"}, {"text":"rain","emoji":"🌧️","say":"rain"} ] }
+      ]
+    },
+    "blend": {
+      "words": [
+        {"text":"cat","emoji":"🐱","say":"cat","parts":["c","at"],"sayParts":["kuh","at"]},
+        {"text":"dog","emoji":"🐶","say":"dog","parts":["d","og"],"sayParts":["duh","og"]},
+        {"text":"sun","emoji":"☀️","say":"sun","parts":["s","un"],"sayParts":["sss","un"]},
+        {"text":"pig","emoji":"🐷","say":"pig","parts":["p","ig"],"sayParts":["puh","ig"]},
+        {"text":"bus","emoji":"🚌","say":"bus","parts":["b","us"],"sayParts":["buh","us"]},
+        {"text":"bed","emoji":"🛏️","say":"bed","parts":["b","ed"],"sayParts":["buh","ed"]},
+        {"text":"fox","emoji":"🦊","say":"fox","parts":["f","ox"],"sayParts":["fff","ox"]},
+        {"text":"hen","emoji":"🐔","say":"hen","parts":["h","en"],"sayParts":["huh","en"]},
+        {"text":"fish","emoji":"🐟","say":"fish","parts":["f","ish"],"sayParts":["fff","ish"]},
+        {"text":"moon","emoji":"🌙","say":"moon","parts":["m","oon"],"sayParts":["mmm","oon"]}
+      ]
+    }
+  },
+  "ar": {
+    "domain": "ar-letters",
+    "rhyme": {
+      "families": [
+        { "words": [ {"text":"قمر","emoji":"🌙","say":"قَمَر"}, {"text":"شجر","emoji":"🌳","say":"شَجَر"}, {"text":"حجر","emoji":"🪨","say":"حَجَر"}, {"text":"مطر","emoji":"🌧️","say":"مَطَر"} ] },
+        { "words": [ {"text":"باب","emoji":"🚪","say":"بَاب"}, {"text":"كتاب","emoji":"📘","say":"كِتَاب"}, {"text":"سحاب","emoji":"☁️","say":"سَحَاب"}, {"text":"ذباب","emoji":"🪰","say":"ذُبَاب"} ] },
+        { "words": [ {"text":"جمل","emoji":"🐪","say":"جَمَل"}, {"text":"عسل","emoji":"🍯","say":"عَسَل"}, {"text":"جبل","emoji":"⛰️","say":"جَبَل"}, {"text":"بصل","emoji":"🧅","say":"بَصَل"} ] },
+        { "words": [ {"text":"تفاح","emoji":"🍎","say":"تُفَّاح"}, {"text":"مفتاح","emoji":"🔑","say":"مِفْتَاح"}, {"text":"صباح","emoji":"🌅","say":"صَبَاح"} ] }
+      ]
+    },
+    "syllables": {
+      "words": [
+        {"text":"باب","emoji":"🚪","say":"بَاب","parts":["بَاب"]},
+        {"text":"فيل","emoji":"🐘","say":"فِيل","parts":["فِيل"]},
+        {"text":"قمر","emoji":"🌙","say":"قَمَر","parts":["قَ","مَر"]},
+        {"text":"جمل","emoji":"🐪","say":"جَمَل","parts":["جَ","مَل"]},
+        {"text":"كتاب","emoji":"📘","say":"كِتَاب","parts":["كِ","تَاب"]},
+        {"text":"أرنب","emoji":"🐰","say":"أَرْنَب","parts":["أَرْ","نَب"]},
+        {"text":"عصفور","emoji":"🐦","say":"عُصْفُور","parts":["عُصْ","فُور"]},
+        {"text":"شجرة","emoji":"🌳","say":"شَجَرَة","parts":["شَ","جَ","رَة"]},
+        {"text":"فراشة","emoji":"🦋","say":"فَرَاشَة","parts":["فَ","رَا","شَة"]},
+        {"text":"سيارة","emoji":"🚗","say":"سَيَّارَة","parts":["سَيْ","يَا","رَة"]},
+        {"text":"تفاحة","emoji":"🍎","say":"تُفَّاحَة","parts":["تُفْ","فَا","حَة"]},
+        {"text":"دراجة","emoji":"🚲","say":"دَرَّاجَة","parts":["دَرْ","رَا","جَة"]},
+        {"text":"برتقالة","emoji":"🍊","say":"بُرْتُقَالَة","parts":["بُرْ","تُ","قَا","لَة"]}
+      ]
+    },
+    "firstSound": {
+      "groups": [
+        { "letter":"ب", "words":[ {"text":"باب","emoji":"🚪","say":"بَاب"}, {"text":"بطة","emoji":"🦆","say":"بَطَّة"}, {"text":"بقرة","emoji":"🐄","say":"بَقَرَة"} ] },
+        { "letter":"ج", "words":[ {"text":"جمل","emoji":"🐪","say":"جَمَل"}, {"text":"جزر","emoji":"🥕","say":"جَزَر"}, {"text":"جبل","emoji":"⛰️","say":"جَبَل"} ] },
+        { "letter":"ق", "words":[ {"text":"قمر","emoji":"🌙","say":"قَمَر"}, {"text":"قطة","emoji":"🐱","say":"قِطَّة"}, {"text":"قرد","emoji":"🐒","say":"قِرْد"} ] },
+        { "letter":"س", "words":[ {"text":"سمكة","emoji":"🐟","say":"سَمَكَة"}, {"text":"سيارة","emoji":"🚗","say":"سَيَّارَة"}, {"text":"ساعة","emoji":"⏰","say":"سَاعَة"} ] },
+        { "letter":"ش", "words":[ {"text":"شمس","emoji":"☀️","say":"شَمْس"}, {"text":"شجرة","emoji":"🌳","say":"شَجَرَة"}, {"text":"شمعة","emoji":"🕯️","say":"شَمْعَة"} ] },
+        { "letter":"ت", "words":[ {"text":"تفاحة","emoji":"🍎","say":"تُفَّاحَة"}, {"text":"تمساح","emoji":"🐊","say":"تِمْسَاح"}, {"text":"تاج","emoji":"👑","say":"تَاج"} ] },
+        { "letter":"ف", "words":[ {"text":"فيل","emoji":"🐘","say":"فِيل"}, {"text":"فراشة","emoji":"🦋","say":"فَرَاشَة"}, {"text":"فأر","emoji":"🐭","say":"فَأْر"} ] },
+        { "letter":"م", "words":[ {"text":"موز","emoji":"🍌","say":"مَوْز"}, {"text":"مفتاح","emoji":"🔑","say":"مِفْتَاح"}, {"text":"مطر","emoji":"🌧️","say":"مَطَر"} ] },
+        { "letter":"ك", "words":[ {"text":"كلب","emoji":"🐶","say":"كَلْب"}, {"text":"كتاب","emoji":"📘","say":"كِتَاب"}, {"text":"كرة","emoji":"⚽","say":"كُرَة"} ] },
+        { "letter":"ن", "words":[ {"text":"نجمة","emoji":"⭐","say":"نَجْمَة"}, {"text":"نحلة","emoji":"🐝","say":"نَحْلَة"}, {"text":"نمر","emoji":"🐅","say":"نَمِر"} ] }
+      ]
+    },
+    "blend": {
+      "words": [
+        {"text":"قمر","emoji":"🌙","say":"قَمَر","parts":["قَ","مَر"],"sayParts":["قَ","مَر"]},
+        {"text":"جمل","emoji":"🐪","say":"جَمَل","parts":["جَ","مَل"],"sayParts":["جَ","مَل"]},
+        {"text":"كتاب","emoji":"📘","say":"كِتَاب","parts":["كِ","تَاب"],"sayParts":["كِ","تَاب"]},
+        {"text":"أرنب","emoji":"🐰","say":"أَرْنَب","parts":["أَرْ","نَب"],"sayParts":["أَرْ","نَب"]},
+        {"text":"شجرة","emoji":"🌳","say":"شَجَرَة","parts":["شَ","جَرَة"],"sayParts":["شَ","جَرَة"]},
+        {"text":"سمكة","emoji":"🐟","say":"سَمَكَة","parts":["سَ","مَكَة"],"sayParts":["سَ","مَكَة"]},
+        {"text":"بطة","emoji":"🦆","say":"بَطَّة","parts":["بَطْ","طَة"],"sayParts":["بَطْ","طَة"]},
+        {"text":"نحلة","emoji":"🐝","say":"نَحْلَة","parts":["نَحْ","لَة"],"sayParts":["نَحْ","لَة"]}
+      ]
+    }
+  }
+}
